@@ -36,6 +36,20 @@ def vttmin_to_srtmin(minute_list):
     return srt_minute_list
 
 
+def write_srt_file(output_file, minute_list, text_list):
+    with open(os.path.join(SRT_PATH, output_file), 'w', encoding='utf-8') as srt:
+        for i in range(len(minute_list)):
+            srt.write(f'{i + 1}')
+            srt.write('\n')
+            srt.write(minute_list[i])
+            srt.write('\n')
+            srt.write(text_list[i])
+            srt.write('\n')
+            if i != len(minute_list) - 1:
+                srt.write('\n')
+    print(f'Archivo {output_file} escrito satisfactoriamente ;)')
+
+
 def run():
     for input_file in INPUT_FILES:
 
@@ -54,23 +68,14 @@ def run():
         translated_text_list = translate_text_list(text_list)
         srt_minute_list = vttmin_to_srtmin(minute_list)
 
-        print(len(translated_text_list))
-        print(len(srt_minute_list))
+        # print(len(translated_text_list))
+        # print(len(srt_minute_list))
 
-        output_file = re.match(r'\d+', input_file).group(0) + '_es.srt'
+        output_file_en = re.match(r'\w+', input_file).group(0) + '_en.srt'
+        output_file_es = re.match(r'\w+', input_file).group(0) + '_es.srt'
 
-        with open(os.path.join(SRT_PATH, output_file), 'w', encoding='utf-8') as srt:
-            for i in range(len(srt_minute_list)):
-                srt.write(f'{i + 1}')
-                srt.write('\n')
-                srt.write(srt_minute_list[i])
-                srt.write('\n')
-                srt.write(translated_text_list[i])
-                srt.write('\n')
-                if i != len(srt_minute_list) - 1:
-                    srt.write('\n')
-
-        print(f'Archivo {output_file} escrito satisfactoriamente ;)')
+        write_srt_file(output_file_en, srt_minute_list, text_list)
+        write_srt_file(output_file_es, srt_minute_list, translated_text_list)
 
 
 if __name__ == '__main__':
