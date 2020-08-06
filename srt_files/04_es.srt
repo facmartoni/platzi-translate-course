@@ -1,0 +1,191 @@
+1
+00:00:03,240 --> 00:00:08,279
+En esta lección, aprenderemos cómo comunicarnos con nuestros clientes con precisión
+
+2
+00:00:08,509 --> 00:00:13,869
+Los objetivos de esta lección serán planificar considerando las prioridades y también entendiendo el
+
+3
+00:00:13,869 --> 00:00:20,579
+concepto fuera de los hitos. Entonces, hablemos sobre cómo planificar teniendo en cuenta las prioridades
+
+4
+00:00:20,670 --> 00:00:26,859
+Recuerde que anteriormente jugamos a planificar el póker con nuestro cliente, y el tiempo total de
+
+5
+00:00:26,859 --> 00:00:33,759
+las estimaciones que nos llevaría a producir todas las historias de los usuarios iban a ser 300 días
+
+6
+00:00:33,920 --> 00:00:41,820
+300 días es un tiempo muy largo en días de trabajo. Recuerde que cada año tiene 200 días hábiles aproximadamente
+
+7
+00:00:41,829 --> 00:00:50,520
+200 y 220 días hábiles. Entonces, si considera que 300 días serían más de un año para un proyecto. Ahora
+
+8
+00:00:50,530 --> 00:00:56,649
+nuestro cliente no siempre tiene un año para esperar la finalización de un proyecto.
+
+9
+00:00:56,820 --> 00:01:00,070
+En este caso, vas y hablas con tu cliente.
+
+10
+00:01:00,070 --> 00:01:04,849
+En el ejemplo que tenemos, hablamos con el cliente y le decimos: Hey, estimamos
+
+11
+00:01:04,849 --> 00:01:10,140
+300 días, pero el cliente dice: hey, escucha, no creo que tenga 300 días.
+
+12
+00:01:10,239 --> 00:01:17,030
+En realidad estaba pensando en tener el proyecto en 90 días, ¿entonces 300 días, 90 días?
+
+13
+00:01:17,209 --> 00:01:21,189
+La diferencia es abismal. Es una gran diferencia.
+
+14
+00:01:21,239 --> 00:01:29,189
+Entonces, ¿qué haces en esta situación? ¿Y comienza a reducir la cantidad de historias de usuarios o
+
+15
+00:01:29,189 --> 00:01:33,310
+que comienza a contratar a otros desarrolladores de software para que lo ayuden con el proceso?
+
+16
+00:01:33,310 --> 00:01:39,780
+¿Qué haces cuando tienes una estimación muy diferente de lo que espera tu cliente?
+
+17
+00:01:39,969 --> 00:01:45,959
+Imagina que le dijiste a tu cliente que tienes una estimación de 300 días y que el cliente quiere
+
+18
+00:01:45,959 --> 00:01:50,620
+que lo hagas todo en 90 días. Bueno, en ese caso, tendrás que
+
+19
+00:01:50,629 --> 00:01:57,140
+reducir el número de historias de usuarios y tendrás que volver atrás y priorizar esas
+
+20
+00:01:57,140 --> 00:02:03,650
+historias con tu cliente. Es muy importante que haga que su cliente sea responsable de seleccionar
+
+21
+00:02:03,650 --> 00:02:07,590
+las historias de usuario más relevantes. Es la decisión de sus clientes.
+
+22
+00:02:07,739 --> 00:02:11,900
+Esta es una muy buena manera de garantizar que su cliente esté contento con el producto final
+
+23
+00:02:11,900 --> 00:02:17,139
+porque la está involucrando en el proceso de toma de decisiones.
+
+24
+00:02:17,590 --> 00:02:23,520
+La forma de hacer esto es que debería tener una reunión con su cliente y exponer todas las historias de usuario
+
+25
+00:02:23,520 --> 00:02:30,240
+en la mesa y preguntarle sobre el orden de sus prioridades, el orden de las historias de usuario que
+
+26
+00:02:30,240 --> 00:02:36,800
+terminarás codificando más adelante. Ahora su cliente ya ha tomado una decisión.
+
+27
+00:02:36,800 --> 00:02:41,750
+Quizás con un poco de ayuda tuya, vas a hacer algo importante es decirle a tu cliente
+
+28
+00:02:41,750 --> 00:02:48,599
+qué historias de usuarios son las más importantes. Y luego, una vez que tenga un buen número de historias de usuario o
+
+29
+00:02:48,599 --> 00:02:55,870
+haya seleccionado las historias de usuario en las que trabajará, entonces continuará y las utilizará
+
+30
+00:02:55,870 --> 00:03:01,750
+sus historias porque esas historias de usuario estarán separadas de su hito 1.0.
+
+31
+00:03:02,840 --> 00:03:08,680
+Ahora, acabo de mencionar un hito, y este es otro concepto que vamos a aprender.
+
+32
+00:03:08,889 --> 00:03:15,620
+El concepto de un hito es un lanzamiento importante. Este es el momento en que tiene ah
+
+33
+00:03:15,620 --> 00:03:22,500
+muchas historias de usuarios. Ya ha pasado por dos o tres iteraciones diferentes sin bordes, y
+
+34
+00:03:22,500 --> 00:03:27,750
+lo que debe hacer es juntarlas y lanzar su
+
+35
+00:03:27,750 --> 00:03:33,379
+software. Esto es muy importante. Es una parte muy importante del proceso, y es diferente
+
+36
+00:03:33,379 --> 00:03:41,240
+de las iteraciones. Las iteraciones son ciclos más pequeños, estos son más o menos ciclos de un mes de duración que
+
+37
+00:03:41,240 --> 00:03:46,360
+reunirá para crear un hito.
+
+38
+00:03:46,419 --> 00:03:53,099
+Ahora, cuando entregue su software, definitivamente espera que le paguen por ese software.
+
+39
+00:03:53,150 --> 00:03:56,759
+Entonces, las iteraciones y un hito son muy diferentes.
+
+40
+00:03:56,770 --> 00:04:02,849
+También porque la iteración normalmente y con los comentarios de sus clientes.
+
+41
+00:04:03,340 --> 00:04:08,360
+por lo tanto, al reunir todos los comentarios que recibe de su cliente después de
+
+42
+00:04:08,360 --> 00:04:14,360
+hacer esas iteraciones, va a formar un hito, y ahí es cuando entregará
+
+43
+00:04:14,370 --> 00:04:23,040
+software a su cliente. Un hito se trata de entregar software con funcionalidad de línea de base
+
+44
+00:04:23,230 --> 00:04:30,550
+Algo que es muy importante es que no lo haga, trate de evitar incluir cualquier tipo de funciones de fantasía
+
+45
+00:04:30,800 --> 00:04:37,209
+En su lugar, debe enfocarse en entregar software que cubra solo La funcionalidad básica.
+
+46
+00:04:37,470 --> 00:04:40,860
+Ahora no es el momento de incluir funciones sofisticadas.
+
+47
+00:04:40,860 --> 00:04:45,860
+Ahora es el momento de centrarse en ofrecer la funcionalidad de línea de base.
+
+48
+00:04:46,000 --> 00:04:51,410
+Este es el final de esta lección, y los veré en la próxima clase donde revisaremos los conceptos que hemos cubierto hasta ahora.

@@ -1,0 +1,247 @@
+1
+00:00:03,209 --> 00:00:09,250
+En esta lección, vamos a hablar sobre cómo comunicarnos con su cliente con precisión.
+
+2
+00:00:10,339 --> 00:00:16,660
+Nuestros objetivos son comprender los ciclos de iteración, estimar todo el proyecto y
+
+3
+00:00:16,660 --> 00:00:23,660
+alcanzar el consenso en las estimaciones. Primero, comencemos hablando de los ciclos de iteración. Ahora,
+
+4
+00:00:23,660 --> 00:00:31,230
+El secreto del gran software son las iteraciones y, obviamente, la comunicación constante.
+
+5
+00:00:31,239 --> 00:00:35,979
+No puede simplemente ignorar a su cliente durante el proceso de desarrollo.
+
+6
+00:00:35,979 --> 00:00:42,750
+Esa no es una idea muy inteligente. Desea estar en comunicación constante con su cliente.
+
+7
+00:00:42,850 --> 00:00:49,600
+Desea saber si su cliente está contento. La mayoría de las veces tendrá que tener esta obsesión por el cliente
+
+8
+00:00:49,600 --> 00:00:55,759
+. Ah, la mentalidad en tu mente. Tienes la oportunidad de hacer la pregunta.
+
+9
+00:00:55,770 --> 00:00:59,920
+¿Cómo estoy? Cuando estás en constante comunicación con tu cliente.
+
+10
+00:00:59,929 --> 00:01:09,859
+Ahora, una iteración es un mini ciclo para producir software de calidad con requisitos, diseño, código,
+
+11
+00:01:09,969 --> 00:01:13,549
+y prueba. Esos son los pasos de un ciclo de iteración.
+
+12
+00:01:13,549 --> 00:01:17,629
+Primero obtienes los requisitos. Luego diseñas los requisitos.
+
+13
+00:01:17,629 --> 00:01:23,280
+Diseñas lo que vas a hacer. Luego codifica esos requisitos para
+
+14
+00:01:23,280 --> 00:01:29,000
+crear software y finalmente prueba el software que acaba de crear.
+
+15
+00:01:29,010 --> 00:01:36,299
+Por lo tanto, cada ciclo produce un software de trabajo de alta calidad y bueno, solo necesita recordar que un proceso
+
+16
+00:01:36,310 --> 00:01:43,230
+es realmente solo una secuencia de pasos. Siempre que siempre siga estos pasos.
+
+17
+00:01:43,239 --> 00:01:47,569
+Puedo asegurarle que su proceso de desarrollo será increíble.
+
+18
+00:01:47,590 --> 00:01:53,469
+Ahora, ¿cuánto tiempo te llevará crear ese increíble software?
+
+19
+00:01:53,560 --> 00:01:56,939
+Bueno, tenemos que comenzar a estimar todo el proyecto.
+
+20
+00:01:57,030 --> 00:02:01,170
+La duración de su iteración debe estar en el tempo correcto para su proyecto.
+
+21
+00:02:01,170 --> 00:02:06,950
+Si es un proyecto pequeño, no necesitará programar muchas iteraciones.
+
+22
+00:02:07,040 --> 00:02:11,900
+Si es un proyecto realmente grande, su número de iteraciones tendrá que cambiar.
+
+23
+00:02:11,909 --> 00:02:18,310
+ahora. Recuerde que anteriormente hablamos sobre historias de usuarios, sus historias de usuarios definen el
+
+24
+00:02:18,310 --> 00:02:24,979
+"qué" del proyecto, qué es lo que está haciendo durante el proyecto y sus estimaciones definen
+
+25
+00:02:24,979 --> 00:02:28,439
+el "cuándo". ¿Para cuándo tendrás este proyecto listo? Para
+
+26
+00:02:28,439 --> 00:02:34,080
+¿cuándo tendrá listo el software? Ahora, aquí es donde el cliente hace la
+
+27
+00:02:34,080 --> 00:02:41,250
+gran pregunta. ¿Cuál podría ser? ¿Cuánto tiempo llevará estimar o cuánto tiempo llevará entregar
+
+28
+00:02:41,250 --> 00:02:47,689
+este software? Ha llegado el momento en que tendrá que estimar todo el proyecto.
+
+29
+00:02:47,789 --> 00:02:54,650
+La estimación de su proyecto es la suma de las estimaciones que tiene para sus historias de usuario. Para
+
+30
+00:02:54,650 --> 00:03:01,199
+averiguar cuánto tiempo le llevará completar todos sus requisitos, debe llegar a un consenso
+
+31
+00:03:01,199 --> 00:03:07,229
+en sus estimaciones. Recuerde que anteriormente mencionamos que para crear un catálogo,
+
+32
+00:03:07,229 --> 00:03:15,479
+tomará cinco días. Para tener la selección de color lista otros dos días, y para la selección de bicicleta
+
+33
+00:03:15,490 --> 00:03:20,419
+otros dos días. Entonces, si imagina que este es todo el proyecto, todo el proyecto tomaría sus
+
+34
+00:03:20,419 --> 00:03:26,669
+nueve días. Obviamente, esto es solo un ejemplo, y diferentes personas, diferentes desarrolladores van a
+
+35
+00:03:26,669 --> 00:03:30,449
+tener diferentes ideas sobre cuánto tiempo le llevará
+
+36
+00:03:30,689 --> 00:03:36,590
+llegar a ese punto en el que su software está funcionando y dónde es funcional.
+
+37
+00:03:36,819 --> 00:03:43,409
+Deberá comenzar a llegar a un consenso. Cuando digo llegar a un consenso en sus estimaciones, estoy hablando
+
+38
+00:03:43,409 --> 00:03:50,889
+sobre cómo su equipo completo, todo su equipo, debe acordar el tiempo que le llevará
+
+39
+00:03:50,900 --> 00:03:56,270
+ocuparse de cada una de esas historias de usuarios. Así que analicemos el siguiente ejemplo.
+
+40
+00:03:56,550 --> 00:04:01,539
+Imaginemos que necesita habilitar este software para recibir pagos.
+
+41
+00:04:01,729 --> 00:04:07,430
+Ahora algunas personas, algunos de sus desarrolladores, comenzarán a pensar en las personas que pagan con una tarjeta de crédito
+
+42
+00:04:07,430 --> 00:04:12,330
+o con una tarjeta de débito. Sus desarrolladores pueden tener diferentes suposiciones.
+
+43
+00:04:12,379 --> 00:04:18,009
+Algunos podrían pensar: ¿qué pasa con American Express? ¿O qué hay del efectivo?
+
+44
+00:04:18,009 --> 00:04:21,980
+¿Recibiré dinero en efectivo? ¿O tengo una opción?
+
+45
+00:04:21,980 --> 00:04:26,819
+Bueno, ¿tengo una opción para Bitcoin? Todas esas cosas son muy importantes.
+
+46
+00:04:26,829 --> 00:04:34,050
+Y es por eso que primero debes sentarte con tu equipo y encontrar una forma de llegar a algún tipo de
+
+47
+00:04:34,230 --> 00:04:39,240
+consenso basado en sus supuestos individuales. Una suposición
+
+48
+00:04:39,240 --> 00:04:42,480
+es la acción de aceptar algo sin pruebas.
+
+49
+00:04:42,649 --> 00:04:49,360
+Y también se basa en la experiencia de las personas. Imaginemos que alguien tuvo una experiencia en
+
+50
+00:04:49,360 --> 00:04:56,899
+su último proyecto en el que las personas debían desarrollar una forma de aceptar American Express,
+
+51
+00:04:57,000 --> 00:05:02,050
+Visa, MasterCard, bueno, van a incorporar eso a este proyecto.
+
+52
+00:05:02,060 --> 00:05:08,639
+Esos son sus supuestos anteriores. Ahora otro, un desarrollador muy diferente va a decir: Bueno
+
+53
+00:05:08,639 --> 00:05:11,550
+¿qué pasa con PayPal o Bitcoin o American Express?
+
+54
+00:05:11,610 --> 00:05:17,509
+Por lo tanto, debe encontrar una manera de llegar a algún tipo de acuerdo y consenso con todos.
+
+55
+00:05:17,529 --> 00:05:24,329
+Debido a que los desarrolladores pueden estar en desacuerdo sobre las estimaciones, es esencial que su equipo llegue a un consenso
+
+56
+00:05:24,350 --> 00:05:29,819
+y solo cuando haya llegado a un consenso, puede comenzar a desarrollar.
+
+57
+00:05:29,930 --> 00:05:36,579
+Es muy importante que antes de comenzar a trabajar, se reúnan con su equipo y acuerden
+
+58
+00:05:36,579 --> 00:05:41,939
+el tiempo que piensan que les tomaría desarrollar todo el proyecto.
+
+59
+00:05:42,079 --> 00:05:49,699
+Es importante que tenga una pequeña reunión y acuerde las estimaciones jugando un juego muy divertido llamado
+
+60
+00:05:49,709 --> 00:05:57,180
+planificación de póker. De hecho, he creado una descripción de la planificación del póker con una explicación detallada
+
+61
+00:05:57,180 --> 00:06:01,459
+de la aplicación del póker para usted. Y ese es un pequeño regalo que tengo para ti.
+
+62
+00:06:01,670 --> 00:06:07,199
+Bueno, todas las cosas buenas deben llegar a su fin. Y esta lección ha terminado ahora.

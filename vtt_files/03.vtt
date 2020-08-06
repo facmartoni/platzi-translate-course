@@ -1,0 +1,187 @@
+WEBVTT
+
+00:03.209 --> 00:09.250
+In this lesson, we are going to talk about communicating with your customer accurately.
+
+00:10.339 --> 00:16.660
+Our goals are to understand iteration cycles, estimating the whole project and
+
+00:16.660 --> 00:23.660
+reaching consensus in estimations. First, let's start talking about iteration cycles. Now,
+
+00:23.660 --> 00:31.230
+The secret to great software is iterations and obviously constant communication.
+
+00:31.239 --> 00:35.979
+You cannot simply ignore your customer during the development process.
+
+00:35.979 --> 00:42.750
+That is not a very smart idea. You want to be in constant communication with your customer.
+
+00:42.850 --> 00:49.600
+You want to know if your customer is happy. Most of the time you will have to have this customer
+
+00:49.600 --> 00:55.759
+obsession. Ah, the mentality in your mind. You get to ask the question.
+
+00:55.770 --> 00:59.920
+How am I doing? When you're in constant communication with your customer.
+
+00:59.929 --> 01:09.859
+Now, an iteration is a mini cycle to produce quality software with requirements, design, code,
+
+01:09.969 --> 01:13.549
+and test. Those are the steps of an iteration cycle.
+
+01:13.549 --> 01:17.629
+First you get the requirements. Then you design the requirements.
+
+01:17.629 --> 01:23.280
+You design what it is that you're going to do. Then you code those requirements to
+
+01:23.280 --> 01:29.000
+create software and finally you test the software that you have just created.
+
+01:29.010 --> 01:36.299
+So each cycle produces working high quality software and well, you just need to remember that a process
+
+01:36.310 --> 01:43.230
+is really just a sequence of steps. Provided that you are always following these steps.
+
+01:43.239 --> 01:47.569
+I can assure you that your development process is going to be awesome.
+
+01:47.590 --> 01:53.469
+Now, how long will it take you to create that awesome software?
+
+01:53.560 --> 01:56.939
+Well, we have to start estimating the whole project.
+
+01:57.030 --> 02:01.170
+Your iteration length should be at the right tempo for your project.
+
+02:01.170 --> 02:06.950
+If it is a small project, you will not need to program many iterations.
+
+02:07.040 --> 02:11.900
+If it is a really big project, your iterations number will have to change.
+
+02:11.909 --> 02:18.310
+Now. Remember that we previously talked about user stories, your user stories define the
+
+02:18.310 --> 02:24.979
+"what" of the project, what it is that you're doing during the project, and your estimates define
+
+02:24.979 --> 02:28.439
+the "when". By when will you have this project ready? By
+
+02:28.439 --> 02:34.080
+when will you have the software ready? Now, this is where the customer asks the
+
+02:34.080 --> 02:41.250
+big question. Which will be? How long will it take to estimate, or how long will it take to deliver
+
+02:41.250 --> 02:47.689
+this software? It's come a time when you will have to estimate the whole project.
+
+02:47.789 --> 02:54.650
+Your project estimate is the sum of the estimates that you have for your user stories. To
+
+02:54.650 --> 03:01.199
+figure out how long it will take you to complete all of their requirements, you need to reach consensus
+
+03:01.199 --> 03:07.229
+in your estimations. Remember we previously mentioned that to create a catalog, you will gonna
+
+03:07.229 --> 03:15.479
+take five days. To have the color selection ready another two days, and to the bicycle selection
+
+03:15.490 --> 03:20.419
+another two days. So if you imagine that this is the whole project, the whole project would take your
+
+03:20.419 --> 03:26.669
+nine days. Obviously this is just an example, and different people, different developers are going
+
+03:26.669 --> 03:30.449
+to have different ideas of how long it is going to take you
+
+03:30.689 --> 03:36.590
+to reach that point where your software is working and where is functional.
+
+03:36.819 --> 03:43.409
+You will have to start to reach consensus. When I say reach consensus in your estimations, I am talking
+
+03:43.409 --> 03:50.889
+about how your complete team, your whole team, needs to agree on the time that it will take you to
+
+03:50.900 --> 03:56.270
+take care of each of those user stories. So let's analyze the next example.
+
+03:56.550 --> 04:01.539
+Let's imagine that you need to enable this software to receive payments.
+
+04:01.729 --> 04:07.430
+Now some people, some of your developers, are going to start thinking about people paying with a credit
+
+04:07.430 --> 04:12.330
+card or with a debit card. Your developers may have different assumptions.
+
+04:12.379 --> 04:18.009
+Some might think: what about American Express? Or what about cash?
+
+04:18.009 --> 04:21.980
+Will I be receiving any cash? Or do I have an option?
+
+04:21.980 --> 04:26.819
+Well, I have an option for Bitcoin? All those things are very important.
+
+04:26.829 --> 04:34.050
+And that's why you need to first sit down with your team and figure out a way to come to some sort of
+
+04:34.230 --> 04:39.240
+consensus based on their individual assumptions. An assumption
+
+04:39.240 --> 04:42.480
+is the action of accepting something without proof.
+
+04:42.649 --> 04:49.360
+And it is also based on people's experience. Let's imagine that somebody had an experience in
+
+04:49.360 --> 04:56.899
+their last project where people were requiring to develop a way to accept American Express,
+
+04:57.000 --> 05:02.050
+Visa, MasterCard, well, they're going to bring that into this project.
+
+05:02.060 --> 05:08.639
+Those are their previous assumptions. Now another, a very different developer is going to say: Well
+
+05:08.639 --> 05:11.550
+what about PayPal or Bitcoin or American Express?
+
+05:11.610 --> 05:17.509
+So you need to find a way to reach some sort of agreement and consensus with everybody.
+
+05:17.529 --> 05:24.329
+Because developers might disagree about estimates, it is essential that your team comes to a consensus
+
+05:24.350 --> 05:29.819
+and only when you have reached a consensus, can you start developing.
+
+05:29.930 --> 05:36.579
+It is very important that before you start working, you get together with your team and you agree on
+
+05:36.579 --> 05:41.939
+the time that they think they would take to develop the whole project.
+
+05:42.079 --> 05:49.699
+It is important that you have a little meeting and agree on estimates by playing a very fun game called
+
+05:49.709 --> 05:57.180
+planning poker. I have actually created a description of planning poker with a detailed explanation
+
+05:57.180 --> 06:01.459
+applying poker for you. And that's a little present that I have for you.
+
+06:01.670 --> 06:07.199
+Well, all good things must come to an end. And this lesson is over right now.

@@ -10,17 +10,20 @@ SRT_PATH = os.path.join(os.path.dirname(
 INPUT_FILES = os.listdir(VTT_PATH)
 
 # Regex
-MINUTE_LINE = re.compile(r'^\d.*$')
+MINUTE_LINE = re.compile(r'^[\d\.:]+ --> [\d\.:]+')
 MINUTE = re.compile(r'([\d\.:]+) --> ([\d\.:]+)')
-TEXT_LINE = re.compile(r'^\w.*$')
+TEXT_LINE = re.compile(r'^[\w\"\'].*$')
+
+# Translate Separator
+SEPARATOR = ' (1) '
 
 
-def translate_text_list(text_list):
-    condensed_str = ' (1) '.join(text_list)
+def translate_text_list(text_list, separator=' (1) '):
+    condensed_str = separator.join(text_list)
     translator = Translator()
     translated_text = translator.translate(
         condensed_str, src='en', dest='es').text
-    translated_text_list = translated_text.split('(1)')
+    translated_text_list = translated_text.split(separator.strip())
     translated_text_list = [string.strip() for string in translated_text_list]
     return translated_text_list
 
@@ -29,6 +32,8 @@ def vttmin_to_srtmin(minute_list):
     srt_minute_list = []
     for line in minute_list:
         minutes = re.match(MINUTE, line)
+        if not minutes:
+            print(line)
         start_minute = '00:' + minutes.group(1).replace('.', ',')
         final_minute = '00:' + minutes.group(2).replace('.', ',')
         srt_line = start_minute + ' --> ' + final_minute
@@ -65,7 +70,7 @@ def run():
                 elif re.match(TEXT_LINE, line):
                     text_list.append(line.strip())
 
-        translated_text_list = translate_text_list(text_list)
+        translated_text_list = translate_text_list(text_list, SEPARATOR)
         srt_minute_list = vttmin_to_srtmin(minute_list)
 
         # print(len(translated_text_list))

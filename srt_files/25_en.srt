@@ -1,0 +1,171 @@
+1
+00:00:03,140 --> 00:00:08,160
+Well, it's time for you to go out there and see the real world.
+
+2
+00:00:08,650 --> 00:00:14,640
+But before you do that, let's review the concepts that we had, the important concept we had in the course.
+
+3
+00:00:14,960 --> 00:00:23,420
+The final review includes the definition of a software development process, developing iteratively,
+
+4
+00:00:23,719 --> 00:00:30,609
+the backlog technique, they user stories technique, the version control technique, the continuous
+
+5
+00:00:30,609 --> 00:00:34,310
+integration techniques and test driven development.
+
+6
+00:00:34,460 --> 00:00:39,240
+So, first of all, what is the definition of a software development process?
+
+7
+00:00:39,469 --> 00:00:44,920
+It is a structure that is imposed on the development of a software product that
+
+8
+00:00:44,920 --> 00:00:54,450
+produces great functional software, and it normally entails having the software product from the beginning
+
+9
+00:00:54,450 --> 00:01:03,659
+to the end. It could be a software product that is used to sell at digital or a physical product online
+
+10
+00:01:03,670 --> 00:01:10,269
+or software as a service that could also be related to this part.
+
+11
+00:01:10,340 --> 00:01:15,579
+Then we have developing iteratively, which is working on many projects,
+
+12
+00:01:15,579 --> 00:01:22,560
+many cycles. They're also called iterations, to promote customer feedback and
+
+13
+00:01:22,569 --> 00:01:27,829
+deliver ability. This is something that is very important here is that you need
+
+14
+00:01:27,829 --> 00:01:35,569
+to continue being in constant communication since from the inception to the release or tell you ship
+
+15
+00:01:35,579 --> 00:01:42,099
+out your software. You need to continue being in constant communication with your customer from
+
+16
+00:01:42,099 --> 00:01:47,290
+the beginning to the end of the process. Then the next concept is the backlog technique.
+
+17
+00:01:47,290 --> 00:01:52,780
+Do you remember what a backlog is? Well, it's a big board in your office where you can track the
+
+18
+00:01:52,780 --> 00:01:58,290
+progress of your user stories and tasks. Different people call the backlog different names.
+
+19
+00:01:58,299 --> 00:02:06,500
+Sometimes people call it: the scrum Board or the spring dashboard or the big Board, so there are different
+
+20
+00:02:06,500 --> 00:02:12,419
+names for the backlog. But what doesn't change is there are three task classes
+
+21
+00:02:12,419 --> 00:02:18,860
+on the backlog: to do user stories or the pipeline,
+
+22
+00:02:19,110 --> 00:02:24,530
+then you have the "doing" or "in progress" user stories, and then you have the "done" or
+
+23
+00:02:24,530 --> 00:02:29,889
+"finished" user stories. Now lots of people like to include the burn down rate or
+
+24
+00:02:29,889 --> 00:02:37,199
+the "calorie burning rate" on the backlog. Then we have the user stories technique.
+
+25
+00:02:37,199 --> 00:02:40,520
+Do you remember what user stories are? Okay, a user story
+
+26
+00:02:40,520 --> 00:02:45,500
+is the representation of on individual task the software has to do.
+
+27
+00:02:45,659 --> 00:02:52,120
+It is composed of smaller tasks and It contains a title, a description, an estimate
+
+28
+00:02:52,129 --> 00:02:57,819
+and our priority value. Remember that sometimes you have a user story that has only
+
+29
+00:02:57,819 --> 00:03:04,139
+two or three individual tasks. But there are, like, really colossal user stories that
+
+30
+00:03:04,139 --> 00:03:10,069
+may have hundreds of individual tasks before they are completed.
+
+31
+00:03:10,300 --> 00:03:13,000
+Then we have the version control technique.
+
+32
+00:03:13,280 --> 00:03:20,699
+VC or version control is a defensive tool. A multiple access repository that keeps track of the different
+
+33
+00:03:20,699 --> 00:03:28,430
+versions of your code. Then we have the continuous integration technique that is a technique that guarantees
+
+34
+00:03:28,430 --> 00:03:34,629
+the reduction of conflict impact by putting together a version control compilation
+
+35
+00:03:34,639 --> 00:03:42,319
+and testing into a single repeatable process. Then you have test driven development, TDD as it is
+
+36
+00:03:42,319 --> 00:03:47,319
+also known. It's all about writing tests before you even start writing
+
+37
+00:03:47,319 --> 00:03:52,020
+the code that will give the software it's functionality and
+
+38
+00:03:52,020 --> 00:03:58,000
+will allow you to have clear, solid, specific ideas about what your software needs
+
+39
+00:03:58,000 --> 00:04:02,219
+to do. Well, from the bottom of my heart, I would like to say thank you.
+
+40
+00:04:02,219 --> 00:04:06,550
+I hope you had as much fun taking this course as I did creating it.
+
+41
+00:04:06,870 --> 00:04:11,699
+Remember to never stop learning. I hope to see you in a future course.
+
+42
+00:04:11,750 --> 00:04:17,920
+If you need anything, you can contact me on Facebook or LinkedIn at Carlos Arriaga Luna, and
+
+43
+00:04:17,920 --> 00:04:26,220
+remember to take your final exam. It is very important. I wish your success in your career and I hope to see you in a future course.

@@ -1,0 +1,135 @@
+1
+00:00:03,240 --> 00:00:09,949
+Bienvenido de nuevo, en esta lección vamos a hablar sobre la comprensión de su cliente y sus requisitos.
+
+2
+00:00:10,339 --> 00:00:16,600
+Los conceptos que vamos a estudiar en esta lección son el retraso y el hito 1.0.
+
+3
+00:00:16,789 --> 00:00:21,160
+Entonces, el primer concepto que tenemos para esta lección es el retraso.
+
+4
+00:00:21,170 --> 00:00:28,280
+¿Cuál es el retraso? Bueno, la cartera de pedidos no es más que un gran tablero en su oficina que
+
+5
+00:00:28,280 --> 00:00:33,219
+va a configurar para realizar un seguimiento de su proceso de desarrollo.
+
+6
+00:00:33,289 --> 00:00:39,770
+Necesitará muchas notas adhesivas, muchas notas adhesivas con diferentes colores, que
+
+7
+00:00:39,770 --> 00:00:45,950
+luego comenzará a publicar en el tablero para seguir básicamente
+
+8
+00:00:46,049 --> 00:00:51,770
+lo que está sucediendo a lo largo de tu progreso. Ahora, la cartera tiene diferentes nombres.
+
+9
+00:00:51,770 --> 00:00:57,159
+Algunas personas lo llaman la pizarra grande en la pared. Algunas personas lo llaman el tablero de instrumentos.
+
+10
+00:00:57,159 --> 00:01:02,399
+Algunas personas lo llaman el trabajo atrasado. Así que estos son nombres diferentes que tendrá la cartera de pedidos.
+
+11
+00:01:02,530 --> 00:01:12,030
+Entonces, ahora utilizamos este trabajo atrasado para controlar qué trabajo está en proceso, qué
+
+12
+00:01:12,030 --> 00:01:19,989
+trabajo está en progreso y qué trabajo se realiza. Es un muy buen recordatorio visual de lo que sucede en
+
+13
+00:01:19,989 --> 00:01:25,349
+su proceso de desarrollo de software. Ese es el retraso. Ahora,
+
+14
+00:01:25,640 --> 00:01:30,260
+el siguiente concepto que estudiaremos en esta lección es el hito
+
+15
+00:01:30,260 --> 00:01:35,989
+1.0. Anteriormente hablamos sobre el hito y lo que fue, pero
+
+16
+00:01:35,989 --> 00:01:43,120
+es muy importante que configure sus iteraciones de tal manera que le permita
+
+17
+00:01:43,120 --> 00:01:49,010
+alcanzar su hito 1.0, que será su primer entregable
+
+18
+00:01:49,090 --> 00:01:55,069
+y será su primera versión importante de software tan pronto como sea posible. Durante
+
+19
+00:01:55,069 --> 00:02:00,450
+hito 1.0, debe intentar iterar una vez al mes.
+
+20
+00:02:00,840 --> 00:02:08,409
+Una vez al mes es el estándar de la industria. El estándar de la industria. Una vez al mes, es muy importante
+
+21
+00:02:08,409 --> 00:02:15,250
+porque si itera una vez al mes, tendrá tiempo suficiente para hablar con su cliente para obtener comentarios
+
+22
+00:02:15,250 --> 00:02:21,349
+de él o ella, y básicamente para hacer todos los ajustes necesarios necesitar.
+
+23
+00:02:21,610 --> 00:02:31,199
+Ahora, a veces algo que podría suceder es que ha planeado alcanzar o
+
+24
+00:02:31,210 --> 00:02:35,729
+básicamente crear una cierta cantidad de historias de usuarios, y a veces no tendrá
+
+25
+00:02:35,729 --> 00:02:41,199
+tiempo suficiente para ocuparse de todas ellas. ¿Qué crees que vas a hacer si
+
+26
+00:02:41,199 --> 00:02:44,849
+no tienes suficiente tiempo para ocuparte de todo tu uso o historias?
+
+27
+00:02:46,639 --> 00:02:51,979
+Si no tiene tiempo suficiente para ocuparse de todas sus historias de usuario, lo que debe hacer es regresar
+
+28
+00:02:51,979 --> 00:02:57,729
+y hablar con el cliente. Una vez más, su cliente tendrá que tomar decisiones basadas
+
+29
+00:02:57,729 --> 00:03:06,050
+en qué opciones de funcionalidad o qué características querrá que incluya en el software
+
+30
+00:03:06,240 --> 00:03:12,379
+Entonces, en otras palabras, cuando no tenga suficiente tiempo, regrese a su cliente y pídale a su cliente
+
+31
+00:03:12,379 --> 00:03:20,289
+que vuelva a priorizar. Ahora, una vez que haya acordado un conjunto alcanzable de historias de usuario para
+
+32
+00:03:20,300 --> 00:03:27,819
+Milestone 1.0, todo lo que tiene que hacer es configurar su cartera de pedidos, configurar su canalización y
+
+33
+00:03:27,819 --> 00:03:32,759
+comenzar a desarrollar. Eso es todo lo que tienes que hacer durante el hito 1.0.
+
+34
+00:03:33,050 --> 00:03:41,001
+Bueno, y todas las cosas buenas deben llegar a su fin. Y este es el final de esta lección. Gracias, nos vemos pronto.
