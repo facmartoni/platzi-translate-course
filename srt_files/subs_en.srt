@@ -1,0 +1,1103 @@
+1
+00:01:06,140 --> 00:01:13,400
+Perfect, no. Thanks to you for being here, we are really really honored to have you and, well, let's begin.
+
+2
+00:01:14,057 --> 00:01:18,257
+The first question I have for you It's very simple: Why computer science?
+
+3
+00:01:19,942 --> 00:01:28,400
+Ah, Yes. Why computer science? I think the answer to that question is going to be different, depending on who you ask.
+
+4
+00:01:28,650 --> 00:01:31,800
+I have a very long answer to that question.
+
+5
+00:01:34,257 --> 00:01:46,628
+It borrows down to for me to needing to know the fundamentals and that's how I thought I could go about accomplishing that.
+
+6
+00:01:48,742 --> 00:01:51,628
+Um, so that was the short answer. Do you want the long answer?
+
+7
+00:01:52,457 --> 00:01:54,942
+Yeah, let's do the long answer.
+
+8
+00:01:55,485 --> 00:02:03,885
+All right. So when I was... when I had the opportunity to go to college
+
+9
+00:02:04,542 --> 00:02:10,514
+I definitely wanted to go to college. I definitely wanted to get the education, I wanted to get that degree in the my bouts.
+
+10
+00:02:11,285 --> 00:02:16,657
+I didn't think I could go out and do anything unless I had a degree
+
+11
+00:02:17,028 --> 00:02:23,685
+And so I got a bachelor's degree, my undergrad,
+
+12
+00:02:23,914 --> 00:02:29,657
+And I was so fascinated with school. I love studying. Not everybody does. I do.
+
+13
+00:02:29,942 --> 00:02:38,200
+And there were so many degrees I could choose from. I was, uh, having a hard time, and I was tending to go towards tech
+
+14
+00:02:38,685 --> 00:02:43,285
+or business and or philosophy or marketing,
+
+15
+00:02:43,571 --> 00:02:52,257
+but I settled on business administration with, like, a sort of secondary degree in in MIS.
+
+16
+00:02:52,457 --> 00:02:59,200
+back then measurement of information systems was a thing. We don't talk about it anymore, but
+
+17
+00:02:59,342 --> 00:03:06,257
+I did a little bit of programming and did a lot of projects in school. I learned about data bases,
+
+18
+00:03:06,371 --> 00:03:09,485
+so I got to build some stuff through acquiring that degree.
+
+19
+00:03:09,942 --> 00:03:17,400
+Now, when I left, I went to work more on the business side of things that when the Internet was booming,
+
+20
+00:03:17,685 --> 00:03:21,314
+I went to work as an Internet marketing manager.
+
+21
+00:03:21,457 --> 00:03:28,742
+So I worked a couple of years doing that, and I felt that I wasn't building anything. I was analyzing a lot of spreadsheets,
+
+22
+00:03:28,971 --> 00:03:34,114
+I was like doing busy work, but I missed building things.
+
+23
+00:03:34,828 --> 00:03:42,714
+So I said, Well, I know a little bit of tech and tech was so hot, it was back in... what is it? 2008
+
+24
+00:03:43,457 --> 00:03:50,142
+before 2008, actually. So I said, well, I'm definitely going to be able to get a job.
+
+25
+00:03:50,371 --> 00:03:56,542
+So I went for it and then the market, we had the tech crash
+
+26
+00:03:57,228 --> 00:04:01,257
+and nobody was hiring anymore and there were definitely hiring people
+
+27
+00:04:01,714 --> 00:04:06,942
+the few companies that were hiring, definitely not hiring people without a degree
+
+28
+00:04:07,114 --> 00:04:16,742
+or who could show that they had a lot of work experience or knowledge in programming which I didn't.
+
+29
+00:04:17,228 --> 00:04:26,114
+So I decided to go and get a Masters degree in computer science because I was very sure I have no choice. This is what I want to do
+
+30
+00:04:26,200 --> 00:04:33,142
+I wasn't necessarily wanting to get another degree. I just wanted that computer science degree.
+
+31
+00:04:33,342 --> 00:04:40,942
+because I didn't feel that anytime soon I would be able to walk through a door and landing a job giving the market situation.
+
+32
+00:04:41,685 --> 00:04:47,828
+And, um, that's how I got, that's how I ended up with a computer science degree.
+
+33
+00:04:48,914 --> 00:04:55,228
+Amazing. You actually fought against a very rough situation in that time.
+
+34
+00:04:55,380 --> 00:05:02,628
+Now it seems quite more easy to Start working in tech, in development, in computer science related stuff.
+
+35
+00:05:02,828 --> 00:05:06,171
+Actually, many big companies are hiring without a degree, right?
+
+36
+00:05:06,371 --> 00:05:09,457
+And now you can learn it in many, many ways.
+
+37
+00:05:10,200 --> 00:05:16,371
+What do you think about that? Like, what's your point of view on how the market has changed
+
+38
+00:05:16,571 --> 00:05:19,085
+And where are we right now?
+
+39
+00:05:19,742 --> 00:05:27,171
+The market, everything has changed. The market has changed a lot. A lot is more accessible.
+
+40
+00:05:27,600 --> 00:05:34,114
+There's so many so many courses online, so many very high quality courses online.
+
+41
+00:05:34,514 --> 00:05:38,942
+And even the editors The editors that I use today
+
+42
+00:05:39,085 --> 00:05:45,428
+I kept thinking: Wow if I had an editor like this that allow me so much inside to the code and
+
+43
+00:05:46,085 --> 00:05:55,971
+made it so easy to write text at the beginning, I would have, you know, getting to be an expert soon, Like...
+
+44
+00:05:56,142 --> 00:06:00,942
+an expert in whatever I was doing sooner than then, however long it took
+
+45
+00:06:01,129 --> 00:06:05,449
+because it's so much easy to grasp what it is that you're doing.
+
+46
+00:06:06,914 --> 00:06:13,200
+So, yeah, everything changed with the Internet. There are so many forums, you have access to people, you can ask questions.
+
+47
+00:06:15,685 --> 00:06:21,250
+But I still think that there is value in getting a degree, though, even with all of the courses out there.
+
+48
+00:06:21,942 --> 00:06:26,560
+And I have worked with people who have degrees and with people who don't have degrees,
+
+49
+00:06:26,560 --> 00:06:31,949
+and I think there is a difference in how they approach things.
+
+50
+00:06:33,839 --> 00:06:38,220
+Yeah, I actually totally agree with that and here in
+
+51
+00:06:38,220 --> 00:06:44,300
+Platzi we're working this. This should be off the record or, I don't know, because it's a big spoiler
+
+52
+00:06:44,310 --> 00:06:50,699
+we're working on something called the School of Computer Science because we actually want
+
+53
+00:06:50,879 --> 00:06:59,879
+to let our students get their ability of highly abstract thinking to understand, like all
+
+54
+00:06:59,879 --> 00:07:05,449
+of the techniques and everything that they really need to do, so they can face many
+
+55
+00:07:05,449 --> 00:07:10,689
+challenges and they will not need a specific tutorial, a specific guide
+
+56
+00:07:10,689 --> 00:07:17,089
+but they will be able to think about the trouble and find a solution with the base of knowledge that
+
+57
+00:07:17,089 --> 00:07:20,769
+they already have. So we actually totally agree with that
+
+58
+00:07:20,769 --> 00:07:27,000
+and I love it how you bring that to the table. I actually have another question, and I want to know
+
+59
+00:07:27,009 --> 00:07:32,490
+because you're a very big open source software contributor and you've contribute to
+
+60
+00:07:32,490 --> 00:07:37,860
+amazing stuff like the go programming language. Of course, like you, you contribute to open source
+
+61
+00:07:37,870 --> 00:07:44,310
+software as a day job, right? And that's very interesting because, like usually everybody
+
+62
+00:07:44,319 --> 00:07:49,730
+thinks that open source software doesn't give you money like it's something you do because you want
+
+63
+00:07:49,730 --> 00:07:55,850
+to learn or because you want to do some good to the people out there and help grow any products.
+
+64
+00:07:55,850 --> 00:07:58,420
+But you're working on that. How is that process?
+
+65
+00:07:58,420 --> 00:08:03,629
+How did you do it? How did you contribute to a programming language like go? and what
+
+66
+00:08:03,629 --> 00:08:10,680
+can you tell us about it? Yeah, that's another question that it is going to have a million different
+
+67
+00:08:10,769 --> 00:08:15,639
+answers. Usually before I speak how I got into it.
+
+68
+00:08:15,800 --> 00:08:23,930
+Just if people wanted to get an insight, usually people do open source software.
+
+69
+00:08:24,029 --> 00:08:31,269
+by way of they have a need themselves they develop a little tool and they think, well, if I just
+
+70
+00:08:31,800 --> 00:08:39,710
+I don't do this to our extract this part of my code and put it up on a source control system, maybe
+
+71
+00:08:39,710 --> 00:08:45,919
+GitHub and make that available for people because the same way I needed it.
+
+72
+00:08:45,929 --> 00:08:50,610
+I know a lot of people going to need it, too. And that's how people get started with being a
+
+73
+00:08:50,610 --> 00:08:54,039
+maintainer. But then you being a maintainer of your own project.
+
+74
+00:08:54,039 --> 00:08:59,009
+And then other people can join and help you, and then you provoke them to maintain it, too.
+
+75
+00:08:59,009 --> 00:09:05,940
+And that could potentially grow, you could develop a reputation and getting to other projects, too
+
+76
+00:09:05,940 --> 00:09:11,200
+So that's one way another way is to make contributions to project.
+
+77
+00:09:11,480 --> 00:09:17,600
+And one thing that I love about open source is that you make a tiny contribution, and that is so valuable
+
+78
+00:09:17,600 --> 00:09:28,179
+that, you know, people think, Wow, people are always admire contributors to open source
+
+79
+00:09:28,429 --> 00:09:34,679
+because any contribution is valuable. I sure have made contributions.
+
+80
+00:09:34,679 --> 00:09:37,860
+And, I wouldn't necessarily write home about someone.
+
+81
+00:09:38,840 --> 00:09:46,389
+but you know, because if you imagine, in terms of size or complexity, yeah, they didn't make
+
+82
+00:09:46,389 --> 00:09:52,019
+a dent in the project necessary. But any small contribution is super valuable in
+
+83
+00:09:52,019 --> 00:09:56,789
+just the process of making that contribution, learning how to project works.
+
+84
+00:09:57,019 --> 00:10:01,480
+Sometimes you have to change one little code, one tiny thing
+
+85
+00:10:01,480 --> 00:10:05,070
+That is not difficult. But you do have to build a code.
+
+86
+00:10:05,070 --> 00:10:07,259
+You do have maybe to bring the test for the cold.
+
+87
+00:10:07,269 --> 00:10:11,029
+You have to install things around like peripherals that need to interact.
+
+88
+00:10:11,029 --> 00:10:14,610
+So you know that you didn't break anything.
+
+89
+00:10:14,620 --> 00:10:21,460
+and that's ah valuable lesson for you to learn, and yeah.
+
+90
+00:10:21,460 --> 00:10:26,159
+Amazing, I actually love it like we talked about how important it is to learn computer science.
+
+91
+00:10:26,159 --> 00:10:31,330
+Like the roots we talk about contributing to open source software.
+
+92
+00:10:31,340 --> 00:10:37,759
+Now, I want to talk something a little bit more spicy because, like in our community, we have a lot
+
+93
+00:10:37,759 --> 00:10:43,850
+of choices and a lot of people who, like cheer for a language like JavaScript it's better, no
+
+94
+00:10:43,850 --> 00:10:49,830
+the better is C, now the better is that. Do you have a favorite programming language?
+
+95
+00:10:50,440 --> 00:11:00,240
+I do. Nice. Yes, I work with Go. I've been working with Go since I started letting going back
+
+96
+00:11:00,240 --> 00:11:09,850
+in 2015. In 2016 I got my first job, my first paying job writing code, full time, and I have not looked
+
+97
+00:11:09,860 --> 00:11:15,889
+back. I have to say I haven't looked into Rust. Um, so I don't a lot of people praise
+
+98
+00:11:15,889 --> 00:11:20,879
+Rust. They love it. There are a lot of similarities with Go in terms of being, ah, lingers.
+
+99
+00:11:20,919 --> 00:11:27,860
+That's very, a language that is very, has a good fit for for writing through the systems.
+
+100
+00:11:28,340 --> 00:11:37,690
+Now the reason why I like Go, is because I hate to say this because nothing computer science or programming
+
+101
+00:11:37,700 --> 00:11:42,080
+it's simple but its simple is not. I'm not saying it's easy.
+
+102
+00:11:42,090 --> 00:11:46,639
+It requires efforts for you to learn. But the syntax has.
+
+103
+00:11:46,639 --> 00:11:54,210
+I think 25 keywords, the API. They're very good about not changing the API, not adding
+
+104
+00:11:54,210 --> 00:11:57,669
+a lot of to the language unless they absolutely have to.
+
+105
+00:11:58,289 --> 00:12:04,389
+If you contrast that with Ruby, for example, just like to have a base for comparison.
+
+106
+00:12:04,940 --> 00:12:13,850
+When I came into Ruby, I knew C, I knew Java, I knew PHP, C# things like that.
+
+107
+00:12:14,240 --> 00:12:21,649
+So when I came into Ruby, it was completely new to me that all the aspects of programming
+
+108
+00:12:21,649 --> 00:12:27,460
+with a dynamic language. I thought was fascinating in absolute love
+
+109
+00:12:27,460 --> 00:12:33,299
+There was completely different, and also there was a whole amazing community around it.
+
+110
+00:12:33,740 --> 00:12:40,600
+but the whole time that I was using Ruby, I struggled with it because every time I wanted to
+
+111
+00:12:40,610 --> 00:12:49,000
+write a stupid function. I had to go on the Internet, look up like what was the best way to write
+
+112
+00:12:49,000 --> 00:12:54,080
+that function? like what was the best call? or like that would be like 10, 15 calls
+
+113
+00:12:54,080 --> 00:12:57,289
+that I could use, each one will have a trade off.
+
+114
+00:12:57,500 --> 00:13:02,850
+And before I submitted my code to a code review where people were going to talk about that, I'm I could
+
+115
+00:13:02,850 --> 00:13:09,909
+last me for into that discussion by finding what if I didn't already know, like, finally what people
+
+116
+00:13:09,909 --> 00:13:15,750
+think is best? It was a whole all the time I was doing that and it was pretty pathetic.
+
+117
+00:13:16,710 --> 00:13:19,799
+Rubiy is a great language, the community is to great
+
+118
+00:13:19,980 --> 00:13:27,919
+I just had I couldn't keep it in my head and I just felt that it was so much work,
+
+119
+00:13:27,929 --> 00:13:33,190
+that was busywork, basically, because there were so many options.
+
+120
+00:13:34,039 --> 00:13:41,769
+Now when I went, when I found out about Go first of all, the speed, because
+
+121
+00:13:41,769 --> 00:13:48,340
+at that time I was not just writing Ruby I was using Ruby on Rails and then I had apps that had speed
+
+122
+00:13:48,340 --> 00:13:55,789
+issues, like when testing and I was looking at some comparisons and Go just was
+
+123
+00:13:55,789 --> 00:14:02,320
+blowing my mind in that apartment. That wasn't what holds me in, but why I stayed was because I was
+
+124
+00:14:02,320 --> 00:14:08,870
+just finding Go so minimalist and simple. I write things I I don't have to ever
+
+125
+00:14:08,870 --> 00:14:12,700
+look up on eternal live like really rare that I have to all.
+
+126
+00:14:12,700 --> 00:14:18,809
+how do I iterated through an array? Because there is only one way
+
+127
+00:14:18,820 --> 00:14:23,289
+Usually, so you know what I mean. So that's why Go is reading my favorite.
+
+128
+00:14:23,519 --> 00:14:27,639
+Like I said, I don't know Rust. I don't know absolutely all the languages.
+
+129
+00:14:27,639 --> 00:14:35,549
+But that's why I like Go so much. Amazing, I actually love Go the first time I use it because
+
+130
+00:14:35,940 --> 00:14:43,549
+I came from C programming language and I did a lot of code in C programming language, and
+
+131
+00:14:43,559 --> 00:14:48,870
+when I started to learning Go for the first time. It was like, Oh, it doesn't have classes? It only has
+
+132
+00:14:49,029 --> 00:14:55,679
+structs? so, like, this is amazing. This is like like C, right? and actually, many people who
+
+133
+00:14:55,690 --> 00:15:01,730
+didn't start with the old language, like C is, like, get a little bit confused. I actually love
+
+134
+00:15:01,740 --> 00:15:07,019
+that, and I totally agree with you about that simplicity that Go has on it, and
+
+135
+00:15:07,029 --> 00:15:11,509
+and it helps a little bit in you can have one way of doing things and
+
+136
+00:15:11,509 --> 00:15:15,649
+you are more confident that you are doing it the right way right?, because
+
+137
+00:15:15,659 --> 00:15:18,750
+when the programming languages do have more choices,
+
+138
+00:15:18,750 --> 00:15:22,360
+more options, well, the things get a little bit more complicated.
+
+139
+00:15:22,370 --> 00:15:29,149
+I totally agree, lovely, so what was your first programming language?
+
+140
+00:15:30,240 --> 00:15:39,309
+First one, Um, I'm going to say I don't remember because I went to school and I had
+
+141
+00:15:39,309 --> 00:15:43,139
+all this classes and I know I took like classes that required one
+
+142
+00:15:43,139 --> 00:15:47,450
+like they will give two options. So I knew it, I took C
+
+143
+00:15:47,799 --> 00:15:54,399
+I took Java, I took classes that where you It's those two languages, for sure.
+
+144
+00:15:54,409 --> 00:16:00,720
+I think only those two actually. The first language that I gave a lot of thought to
+
+145
+00:16:00,730 --> 00:16:08,230
+was Java for I wanted to become an expert, play experts, to the extent possible.
+
+146
+00:16:08,230 --> 00:16:12,500
+So I started for the certification and I'm not saying certification
+
+147
+00:16:12,500 --> 00:16:17,840
+Everybody should have it, for me was like it was all about having a syllabus that I could follow in
+
+148
+00:16:17,840 --> 00:16:22,899
+check boxes like OK, I know this. I know this, I know this and don't know when those things just
+
+149
+00:16:22,899 --> 00:16:25,549
+is going to make me understand the language better.
+
+150
+00:16:25,899 --> 00:16:31,679
+So I got the Java entry level one the programmer certification.
+
+151
+00:16:31,960 --> 00:16:39,519
+So I felt very confident wit Java, so, yeah, I'll say that. I've noticed in something very important
+
+152
+00:16:39,519 --> 00:16:43,399
+and something that we actually say a lot to our students.
+
+153
+00:16:43,399 --> 00:16:49,049
+And it is that you don't only have one programming language and you try to do it
+
+154
+00:16:49,360 --> 00:16:55,039
+everything with that programming language, I see like you learned a lot of programming languages
+
+155
+00:16:55,200 --> 00:16:59,210
+and we actually want to know, What do you think about it?
+
+156
+00:16:59,210 --> 00:17:04,690
+Because some programmers here in LATAM or some students say, like, this is the best programming
+
+157
+00:17:04,690 --> 00:17:09,509
+language, and I want to do everything with this, like from video games to
+
+158
+00:17:09,509 --> 00:17:14,029
+backend services, to realtime applications, to embedded systems.
+
+159
+00:17:14,269 --> 00:17:18,349
+It's kind of crazy, right? Like, what do you think about that?
+
+160
+00:17:19,740 --> 00:17:27,970
+I think that is definitely an advantage in learning more branches now like
+
+161
+00:17:29,200 --> 00:17:33,680
+let's talk about this quick, is there many questions you within this question that are the question
+
+162
+00:17:33,680 --> 00:17:39,490
+So one question is, should you know more than one programming language? at least in my head
+
+163
+00:17:39,630 --> 00:17:45,430
+that's the one question here. Absolutely. Yes, you should make a point in learning.
+
+164
+00:17:45,480 --> 00:17:52,539
+You should know at least two, and in this very I know you're company is obviously
+
+165
+00:17:52,539 --> 00:17:59,049
+very multilingual. I'm here doing this interview in English and you probably going to be translating
+
+166
+00:17:59,049 --> 00:18:07,069
+And your audience is mostly from Latin America. If you speak two languages, you know you have an advantage
+
+167
+00:18:07,069 --> 00:18:11,009
+And if you're going to learn a third is going to be a lot easier, if you're going through this process
+
+168
+00:18:11,079 --> 00:18:15,700
+you know it's true. And you're in the very least you probably have heard that is true.
+
+169
+00:18:15,950 --> 00:18:21,599
+It is a very same with programming languages. You learn one and you struggle because you've never programmed
+
+170
+00:18:21,609 --> 00:18:26,579
+before. And then you learn the second one and it's contrasting things and all of a sudden you
+
+171
+00:18:26,579 --> 00:18:29,690
+start is not it is no longer about the programming language
+
+172
+00:18:29,690 --> 00:18:39,009
+is about computer systems, like the mechanic is the mechanics that those languages that syntax
+
+173
+00:18:39,019 --> 00:18:46,509
+is driving. You start to understand once you start to manipulate it with different languages, you
+
+174
+00:18:46,509 --> 00:18:49,109
+just like things to start coming together in your head.
+
+175
+00:18:49,740 --> 00:18:56,130
+Uh, nothing wrong witch just knowing one. I'm just saying that if you learn more, you going
+
+176
+00:18:56,130 --> 00:19:01,950
+to out automatically gain the benefit without making a lot of effort of understanding computer systems.
+
+177
+00:19:01,950 --> 00:19:08,130
+Now, should you use one language, whether you know multiple languages which are I'm not sure.
+
+178
+00:19:08,130 --> 00:19:11,990
+Should you use one language for everything? Absolutely not.
+
+179
+00:19:12,230 --> 00:19:15,579
+No, cn you like, if you're doing that as a hobby?
+
+180
+00:19:15,579 --> 00:19:25,240
+Sure. But is not going to be efficient. So you have to find out if you want to let you feel running
+
+181
+00:19:25,240 --> 00:19:32,170
+a team you have to to analyze what are the options here that would make that system that you're writing
+
+182
+00:19:32,170 --> 00:19:39,960
+whatever it is, be more productive like that, you have to get productivity out of your team.
+
+183
+00:19:40,170 --> 00:19:43,720
+Because if you're writing with the language, that doesn't allow you to do a bunch of things and you
+
+184
+00:19:43,720 --> 00:19:49,460
+have to like, be hacking things, you're going to shoot your product, your team productivity.
+
+185
+00:19:49,460 --> 00:19:54,170
+So language matters. I'm really loving everything you're telling us.
+
+186
+00:19:54,180 --> 00:19:58,529
+I'm really happy to have you here, thank you and I have one last question.
+
+187
+00:19:58,539 --> 00:20:02,210
+Here at Platzi we have a lot of students and we love them all.
+
+188
+00:20:02,279 --> 00:20:10,369
+But I would love for you to tell a little message to all of or possible students or potential students
+
+189
+00:20:10,369 --> 00:20:16,880
+that are mainly female students that don't believe that they can entered this field of computer science
+
+190
+00:20:16,940 --> 00:20:24,640
+and triumph here. Yeah, well, join the club because I almost feel like that every day, even
+
+191
+00:20:24,640 --> 00:20:27,690
+though I'm already have been doing this for a long time.
+
+192
+00:20:27,690 --> 00:20:30,779
+That is always something that I think Oh, it is this.
+
+193
+00:20:30,779 --> 00:20:35,309
+I didn't get the memo on how to do this, but I think it really helps.
+
+194
+00:20:36,089 --> 00:20:42,809
+I think the issue is one big issue is that when you do things in isolation, you don't know there are
+
+195
+00:20:42,809 --> 00:20:49,670
+other people were struggling to and I think the the issue with gender, this gender division is that
+
+196
+00:20:51,000 --> 00:20:54,980
+well, computer science and programming are top male-dominated.
+
+197
+00:20:55,299 --> 00:21:02,750
+So it's very easy for guys to find guys and do the guy thing, right? in women might not want to or might not be
+
+198
+00:21:02,750 --> 00:21:09,920
+welcoming, because the thing is, if the all of these two group, these two groups
+
+199
+00:21:09,920 --> 00:21:16,250
+male, female, were, interacting all the time, you would see a lot of guys were naturally
+
+200
+00:21:16,250 --> 00:21:19,529
+confident and you just don't know how they know everything their turns.
+
+201
+00:21:19,529 --> 00:21:26,309
+I've got people like that, women too, and that's another thing that you could get exposed to women
+
+202
+00:21:26,309 --> 00:21:33,069
+who also are very naturally talented. But there are a lot of people who also struggle, but you don't
+
+203
+00:21:33,069 --> 00:21:38,930
+see because you don't interacting with them, and I have been lucky, lucky the way that I've been
+
+204
+00:21:39,089 --> 00:21:46,150
+I stuck to it and because I like it, and I've seen a lot of all kinds of people struggle, same
+
+205
+00:21:46,150 --> 00:21:50,380
+way I struggled. So by struggling, it's is a thing.
+
+206
+00:21:50,380 --> 00:21:55,170
+and that's something that I say to people who do want to learn computer science or
+
+207
+00:21:55,170 --> 00:22:03,160
+learn programming is that definitely try it out. But if you try out and you like it, stick to it
+
+208
+00:22:04,039 --> 00:22:09,170
+because it really requires persistence
+
+209
+00:22:09,180 --> 00:22:13,390
+It takes a lot of concentration.
+
+210
+00:22:13,619 --> 00:22:20,029
+And if you don't like it, you fight. You keep fighting and you're not going to get deep, and you
+
+211
+00:22:20,029 --> 00:22:23,660
+need to get deep to understand the concepts and the fundamentals.
+
+212
+00:22:24,019 --> 00:22:31,710
+and just talking about computer science, it really helps have following a curriculum,
+
+213
+00:22:31,710 --> 00:22:39,569
+and so you know, the things that you have that you can learn to give you to use.
+
+214
+00:22:39,569 --> 00:22:46,970
+It was not the incident. It is not the first day I was going to give it.
+
+215
+00:22:46,970 --> 00:22:49,539
+I went into totally different directions. No, but
+
+216
+00:22:49,539 --> 00:22:52,960
+I liked it. This is of the record, by the way for the energy.
+
+217
+00:22:53,970 --> 00:22:58,470
+Do you want to add something like, Can I do a follow up question? or
+
+218
+00:22:58,480 --> 00:23:02,160
+you're fine with that. No, no, If you want to follow up, it's fine with me.
+
+219
+00:23:02,569 --> 00:23:07,410
+Perfect, I loved what you say. It's very important.
+
+220
+00:23:07,420 --> 00:23:14,140
+It's a very important message. And actually, when you as a student, when you're starting, you see
+
+221
+00:23:14,140 --> 00:23:18,829
+these people right now who are on the top of it, and they seem to know it all and
+
+222
+00:23:18,829 --> 00:23:25,859
+they are your teachers, right? And they like, they are people that does everything, code in many languages
+
+223
+00:23:25,859 --> 00:23:32,160
+for example, Carlisia. But it's important to take notice of that like they didn't started
+
+224
+00:23:32,309 --> 00:23:39,509
+with all of the knowledge. So, yeah, with that, I will just ask if is there anything else you want
+
+225
+00:23:39,519 --> 00:23:46,450
+to say to our viewers Carlisia? Well, you make me reminds,
+
+226
+00:23:46,490 --> 00:23:52,740
+remember something, a lot of times when you look, look up to someone,
+
+227
+00:23:52,740 --> 00:23:57,369
+I don't even consider myself an expert. I'm an expert in the sense that I've been doing programming
+
+228
+00:23:57,369 --> 00:24:04,420
+for a long time. So but everything I do is new, so I feel like, Oh, my gosh, I'm struggling
+
+229
+00:24:04,420 --> 00:24:07,160
+I'm always struggling because everything is new. You know how it is.
+
+230
+00:24:07,759 --> 00:24:12,950
+But I do have I have acquired some some good feelings about things and that helps a lot.
+
+231
+00:24:14,039 --> 00:24:19,670
+Now, when you look up as someone who is an expert has been doing whatever for a long time and
+
+232
+00:24:19,680 --> 00:24:25,519
+if they speak in a way that maybe you don't understand and if you ask them a question, they might give
+
+233
+00:24:25,519 --> 00:24:31,460
+you an answer that makes no sense at all. And then you you might turn to yourself and think, Wow,
+
+234
+00:24:31,470 --> 00:24:37,920
+I answer. I asked the question that I need an answer for this person who's an expert answered
+
+235
+00:24:37,930 --> 00:24:42,559
+and I cannot make sense like I understand the words, but I don't know what they're saying.
+
+236
+00:24:42,619 --> 00:24:47,940
+It happens to me all the time, by the way, therefore, it's me, right?
+
+237
+00:24:47,940 --> 00:24:53,650
+because the expert give me an answer I should know. But this is what happens at
+
+238
+00:24:53,660 --> 00:24:56,200
+when people have been doing something for a long time.
+
+239
+00:24:56,430 --> 00:25:02,309
+So called experts and that is for every few they think, they think about these in a different way.
+
+240
+00:25:02,460 --> 00:25:08,980
+They talk about things in a different level and a lot of times when I ask people, people who
+
+241
+00:25:08,980 --> 00:25:14,240
+are experts, they tell me how to do things, But they're not necessarily explaining to me what I'm
+
+242
+00:25:14,250 --> 00:25:19,869
+asking, which is what even is this? don't tell me how to use it, because I can
+
+243
+00:25:19,869 --> 00:25:25,900
+memorize it, I can write it down, but what I want to know is what is this? because I'm not
+
+244
+00:25:25,900 --> 00:25:33,920
+even there yet. It's very helpful to talk with beginners or newcomers in try to learn
+
+245
+00:25:33,920 --> 00:25:38,650
+things from each other, like you agree to have the same whenever you learning something.
+
+246
+00:25:38,650 --> 00:25:44,230
+Even if you're in the field for a long time, but you're dropping into another language or a new
+
+247
+00:25:44,230 --> 00:25:51,609
+system, seek out beginners to to learn from and collaborate with.
+
+248
+00:25:51,619 --> 00:25:56,660
+Those are going to be very good experiences in my opinion.
+
+249
+00:25:57,839 --> 00:26:00,349
+Oh, that's amazing. Thank you very much.
+
+250
+00:26:00,740 --> 00:26:07,309
+I will only add
+
+251
+00:26:40,000 --> 00:26:42,789
+Well, Carlisia, I really loved this interview.
+
+252
+00:26:42,799 --> 00:26:47,200
+I loved having you here. I'm sure our students will want a course by you.
+
+253
+00:26:47,329 --> 00:26:54,690
+You will be an amazing go teacher. I'm just so happy to have you here,
+
+254
+00:26:54,690 --> 00:27:00,640
+really, and I wanted to say thank you. In the name of Platzi and all of our community, for sharing
+
+255
+00:27:00,640 --> 00:27:06,420
+this time with with us. I know you're a very busy person and well, I really, really thank you
+
+256
+00:27:06,420 --> 00:27:10,410
+I don't know if you wanna share your social networks where they can follow you.
+
+257
+00:27:10,529 --> 00:27:15,210
+You have an amazing podcast about cloud computing and
+
+258
+00:27:15,440 --> 00:27:20,109
+So maybe you can talk a little bit about that. Yeah, it was so lovely to be here
+
+259
+00:27:20,109 --> 00:27:22,789
+and do this. It sounds like you have a wonderful community.
+
+260
+00:27:23,440 --> 00:27:28,730
+the best way to interact with me is on Twitter I pop in there all the time.
+
+261
+00:27:28,740 --> 00:27:33,759
+I talked to people they are out in the open, and I think it's fun in the highly recommend
+
+262
+00:27:33,769 --> 00:27:39,710
+for talk people who are not in Twitter to hop in there and start making connections because a lot
+
+263
+00:27:39,720 --> 00:27:42,849
+happens there, people get jobs from it, is amazing.
+
+264
+00:27:43,210 --> 00:27:47,000
+So it's my first name. My first name is my handle
+
+265
+00:27:47,000 --> 00:27:54,119
+and like Ricardo said, I am a host of a podcast that talks about cloud native concepts.
+
+266
+00:27:54,599 --> 00:28:00,740
+It was something I started because when I joined in this world, I was not familiar with
+
+267
+00:28:00,740 --> 00:28:03,089
+the concepts and I was asking around What is this?
+
+268
+00:28:03,089 --> 00:28:10,569
+What is this? And I finally figure out Hey, I want to be the change
+
+269
+00:28:10,630 --> 00:28:14,119
+I want to be the force in the world that I want. You know what I mean?
+
+270
+00:28:15,009 --> 00:28:22,880
+As figure. Wow. I put together a podcast to help people who are aware was a year ago.
+
+271
+00:28:23,299 --> 00:28:26,549
+and because also I didn't see that there was anything like that.
+
+272
+00:28:26,549 --> 00:28:31,569
+So if you want to learn about called native Concepts, hop onto the podlets.io
+
+273
+00:28:31,569 --> 00:28:38,039
+Yeah, thank you very much. We will, of course, put the link to your podcasts and to your twitter
+
+274
+00:28:38,039 --> 00:28:41,650
+account here on the chat so our students can follow you.
+
+275
+00:28:41,819 --> 00:28:44,890
+And Yeah, I just wanted to say thank you very much.
+
+276
+00:28:44,900 --> 00:28:49,150
+I'm now for our students. I want to say you something in Spanish.

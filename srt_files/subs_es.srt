@@ -1,0 +1,1103 @@
+1
+00:01:06,140 --> 00:01:13,400
+Perfecto, no. Gracias a ti por estar aquí, estamos realmente muy honrados de tenerte y, bueno, comencemos.
+
+2
+00:01:14,057 --> 00:01:18,257
+La primera pregunta que tengo para ti es muy simple: ¿Por qué la informática?
+
+3
+00:01:19,942 --> 00:01:28,400
+Ah, sí. ¿Por qué la informática? Creo que la respuesta a esa pregunta será diferente, dependiendo de a quién le preguntes.
+
+4
+00:01:28,650 --> 00:01:31,800
+Tengo una respuesta muy larga a esa pregunta.
+
+5
+00:01:34,257 --> 00:01:46,628
+Se basa en la necesidad de conocer los fundamentos y así es como pensé que podría lograrlo.
+
+6
+00:01:48,742 --> 00:01:51,628
+Um, esa fue la respuesta corta. ¿Quieres la respuesta larga?
+
+7
+00:01:52,457 --> 00:01:54,942
+Sí, hagamos la respuesta larga.
+
+8
+00:01:55,485 --> 00:02:03,885
+Está bien. Entonces, cuando tenía ... cuando tuve la oportunidad de ir a la universidad
+
+9
+00:02:04,542 --> 00:02:10,514
+definitivamente quería ir a la universidad. Definitivamente quería obtener la educación, quería obtener ese título en mis combates.
+
+10
+00:02:11,285 --> 00:02:16,657
+No pensé que podría salir y hacer nada a menos que tuviera un título
+
+11
+00:02:17,028 --> 00:02:23,685
+Y entonces obtuve una licenciatura, mi licenciatura,
+
+12
+00:02:23,914 --> 00:02:29,657
+Y estaba tan fascinado con la escuela. Me encanta estudiar. No todo el mundo lo hace. Hago.
+
+13
+00:02:29,942 --> 00:02:38,200
+Y había tantos títulos entre los que podía elegir. Estaba, eh, pasando por un momento difícil y tendía a inclinarme hacia la tecnología
+
+14
+00:02:38,685 --> 00:02:43,285
+o los negocios o la filosofía o el marketing,
+
+15
+00:02:43,571 --> 00:02:52,257
+pero me decidí por la administración de empresas con una especie de título secundario en MIS. .
+
+16
+00:02:52,457 --> 00:02:59,200
+en ese entonces la medición de los sistemas de información era una cosa. Ya no hablamos de eso, pero
+
+17
+00:02:59,342 --> 00:03:06,257
+hice un poco de programación e hice muchos proyectos en la escuela. Aprendí sobre bases de datos,
+
+18
+00:03:06,371 --> 00:03:09,485
+así que pude construir algunas cosas al adquirir ese título.
+
+19
+00:03:09,942 --> 00:03:17,400
+Ahora, cuando me fui, comencé a trabajar más en el lado comercial de las cosas que cuando Internet estaba en auge,
+
+20
+00:03:17,685 --> 00:03:21,314
+comencé a trabajar como gerente de marketing de Internet.
+
+21
+00:03:21,457 --> 00:03:28,742
+Trabajé un par de años haciendo eso y sentí que no estaba construyendo nada. Estaba analizando muchas hojas de cálculo,
+
+22
+00:03:28,971 --> 00:03:34,114
+estaba como haciendo un trabajo muy ocupado, pero echaba de menos construir cosas.
+
+23
+00:03:34,828 --> 00:03:42,714
+Entonces dije: Bueno, sé que un poco de tecnología y tecnología estaba tan de moda, estaba de vuelta en ... ¿qué es? 2008
+
+24
+00:03:43,457 --> 00:03:50,142
+antes de 2008, de hecho. Entonces dije, bueno, definitivamente voy a poder conseguir un trabajo.
+
+25
+00:03:50,371 --> 00:03:56,542
+Así que fui a por ello y luego el mercado, tuvimos el colapso tecnológico
+
+26
+00:03:57,228 --> 00:04:01,257
+y ya nadie estaba contratando y definitivamente había personas contratando
+
+27
+00:04:01,714 --> 00:04:06,942
+las pocas empresas que estaban contratando, definitivamente no contratando personas sin un título
+
+28
+00:04:07,114 --> 00:04:16,742
+o que pudiera demostrar que tenían mucha experiencia laboral o conocimientos en programación que yo no.
+
+29
+00:04:17,228 --> 00:04:26,114
+Así que decidí ir y obtener una maestría en ciencias de la computación porque estaba muy seguro de que no tenía otra opción. Esto es lo que quiero hacer
+
+30
+00:04:26,200 --> 00:04:33,142
+No necesariamente quería obtener otro título. Solo quería ese título en informática.
+
+31
+00:04:33,342 --> 00:04:40,942
+porque no sentía que pronto sería capaz de atravesar una puerta y conseguir un trabajo dando la situación del mercado.
+
+32
+00:04:41,685 --> 00:04:47,828
+Y, um, así es como obtuve, así es como terminé con un título en informática.
+
+33
+00:04:48,914 --> 00:04:55,228
+Increíble. De hecho, luchaste contra una situación muy difícil en ese momento.
+
+34
+00:04:55,380 --> 00:05:02,628
+Ahora parece bastante más fácil Empezar a trabajar en tecnología, en desarrollo, en cosas relacionadas con la informática.
+
+35
+00:05:02,828 --> 00:05:06,171
+En realidad, muchas grandes empresas están contratando sin título, ¿verdad?
+
+36
+00:05:06,371 --> 00:05:09,457
+Y ahora puedes aprenderlo de muchas, muchas formas.
+
+37
+00:05:10,200 --> 00:05:16,371
+¿Qué opinas de eso? ¿Cuál es su punto de vista sobre cómo ha cambiado el mercado?
+
+38
+00:05:16,571 --> 00:05:19,085
+¿Y dónde estamos ahora?
+
+39
+00:05:19,742 --> 00:05:27,171
+El mercado, todo ha cambiado. El mercado ha cambiado mucho. Mucho es más accesible.
+
+40
+00:05:27,600 --> 00:05:34,114
+Hay tantos cursos en línea, tantos cursos en línea de muy alta calidad.
+
+41
+00:05:34,514 --> 00:05:38,942
+E incluso los editores Los editores que utilizo hoy
+
+42
+00:05:39,085 --> 00:05:45,428
+Seguí pensando: Vaya, si tuviera un editor como este que me permitiera tanto dentro del código y
+
+43
+00:05:46,085 --> 00:05:55,971
+hiciera tan fácil escribir texto en el comenzando, tendría, ya sabes, llegar a ser un experto pronto, como ...
+
+44
+00:05:56,142 --> 00:06:00,942
+un experto en lo que estaba haciendo antes que entonces, sin importar el tiempo que tomó
+
+45
+00:06:01,129 --> 00:06:05,449
+porque es mucho más fácil comprender lo que es lo que estás haciendo.
+
+46
+00:06:06,914 --> 00:06:13,200
+Entonces, sí, todo cambió con Internet. Hay tantos foros, tienes acceso a personas, puedes hacer preguntas.
+
+47
+00:06:15,685 --> 00:06:21,250
+Sin embargo, sigo pensando que es valioso obtener un título, incluso con todos los cursos que existen.
+
+48
+00:06:21,942 --> 00:06:26,560
+Y he trabajado con personas que tienen títulos y con personas que no tienen títulos,
+
+49
+00:06:26,560 --> 00:06:31,949
+y creo que hay una diferencia en cómo abordan las cosas.
+
+50
+00:06:33,839 --> 00:06:38,220
+Sí, en realidad estoy totalmente de acuerdo con eso y aquí en
+
+51
+00:06:38,220 --> 00:06:44,300
+Platzi estamos trabajando en esto. Esto debería ser extraoficial o, no sé, porque es un gran spoiler
+
+52
+00:06:44,310 --> 00:06:50,699
+estamos trabajando en algo llamado Escuela de Ciencias de la Computación porque en realidad queremos
+
+53
+00:06:50,879 --> 00:06:59,879
+que nuestros estudiantes obtengan su capacidad de pensamiento abstracto para entender, como todas
+
+54
+00:06:59,879 --> 00:07:05,449
+las técnicas y todo lo que realmente necesitan hacer, para que puedan enfrentar muchos
+
+55
+00:07:05,449 --> 00:07:10,689
+desafíos y no necesitarán un tutorial específico, una guía específica
+
+56
+00:07:10,689 --> 00:07:17,089
+pero serán capaces de pensar en el problema y encontrar una solución con la base del conocimiento que
+
+57
+00:07:17,089 --> 00:07:20,769
+ya tienen. Así que en realidad estamos totalmente de acuerdo con eso
+
+58
+00:07:20,769 --> 00:07:27,000
+y me encanta cómo lo traes a la mesa. De hecho, tengo otra pregunta y quiero saber
+
+59
+00:07:27,009 --> 00:07:32,490
+porque eres un gran colaborador de software de código abierto y has contribuido a
+
+60
+00:07:32,490 --> 00:07:37,860
+cosas increíbles como el lenguaje de programación go. Por supuesto, como tú, contribuyes al software de código abierto
+
+61
+00:07:37,870 --> 00:07:44,310
+como un trabajo diario, ¿verdad? Y eso es muy interesante porque, como normalmente todo el mundo
+
+62
+00:07:44,319 --> 00:07:49,730
+piensa que el software de código abierto no te da dinero como si fuera algo que haces porque quieres
+
+63
+00:07:49,730 --> 00:07:55,850
+aprender o porque quieres hacer algo bueno a la gente que está ahí y ayudar a cultivar cualquier producto.
+
+64
+00:07:55,850 --> 00:07:58,420
+Pero estás trabajando en eso. ¿Cómo es ese proceso?
+
+65
+00:07:58,420 --> 00:08:03,629
+¿Cómo lo hiciste? ¿Cómo contribuiste a un lenguaje de programación como go? y ¿qué
+
+66
+00:08:03,629 --> 00:08:10,680
+puedes contarnos al respecto? Sí, esa es otra pregunta que tendrá un millón de respuestas diferentes
+
+67
+00:08:10,769 --> 00:08:15,639
+. Por lo general, antes de hablar sobre cómo me metí en eso.
+
+68
+00:08:15,800 --> 00:08:23,930
+Solo si la gente quisiera obtener una idea, generalmente la gente usa software de código abierto.
+
+69
+00:08:24,029 --> 00:08:31,269
+porque ellos mismos tienen una necesidad, desarrollan una pequeña herramienta y piensan, bueno, si yo solo
+
+70
+00:08:31,800 --> 00:08:39,710
+no hago esto para extraer esta parte de mi código y colocarla en un control de código fuente system, tal vez
+
+71
+00:08:39,710 --> 00:08:45,919
+GitHub y ponerlo a disposición de las personas porque de la misma manera que lo necesitaba.
+
+72
+00:08:45,929 --> 00:08:50,610
+Sé que mucha gente también lo necesitará. Y así es como la gente comienza a ser un
+
+73
+00:08:50,610 --> 00:08:54,039
+mantenedor. Pero luego eres un mantenedor de tu propio proyecto.
+
+74
+00:08:54,039 --> 00:08:59,009
+Y luego otras personas pueden unirse y ayudarte, y luego los provocas para que lo mantengan también.
+
+75
+00:08:59,009 --> 00:09:05,940
+Y eso podría crecer potencialmente, podría desarrollar una reputación y llegar a otros proyectos también
+
+76
+00:09:05,940 --> 00:09:11,200
+Así que esa es otra forma de hacer contribuciones al proyecto.
+
+77
+00:09:11,480 --> 00:09:17,600
+Y una cosa que me encanta del código abierto es que haces una pequeña contribución, y eso es tan valioso
+
+78
+00:09:17,600 --> 00:09:28,179
+que, ya sabes, la gente piensa, Vaya, la gente siempre admira los contribuyentes al código abierto
+
+79
+00:09:28,429 --> 00:09:34,679
+porque cualquier contribución es valiosa. Seguro que he hecho contribuciones.
+
+80
+00:09:34,679 --> 00:09:37,860
+Y no necesariamente escribiría a casa sobre alguien.
+
+81
+00:09:38,840 --> 00:09:46,389
+pero ya sabes, porque si te lo imaginas, en términos de tamaño o complejidad, sí, no hicieron
+
+82
+00:09:46,389 --> 00:09:52,019
+una mella en el proyecto necesaria. Pero cualquier pequeña contribución es súper valiosa en
+
+83
+00:09:52,019 --> 00:09:56,789
+solo el proceso de hacer esa contribución, aprender a proyectar funciona.
+
+84
+00:09:57,019 --> 00:10:01,480
+A veces tienes que cambiar un pequeño código, una pequeña cosa
+
+85
+00:10:01,480 --> 00:10:05,070
+Eso no es difícil. Pero tienes que crear un código.
+
+86
+00:10:05,070 --> 00:10:07,259
+Quizás tenga que traer la prueba del resfriado.
+
+87
+00:10:07,269 --> 00:10:11,029
+Tienes que instalar cosas como periféricos que necesitan interactuar.
+
+88
+00:10:11,029 --> 00:10:14,610
+Para que sepa que no rompió nada.
+
+89
+00:10:14,620 --> 00:10:21,460
+y esa es una lección valiosa para que la aprendas, y sí.
+
+90
+00:10:21,460 --> 00:10:26,159
+Increíble, de hecho me encanta como hablábamos de lo importante que es aprender informática.
+
+91
+00:10:26,159 --> 00:10:31,330
+Como las raíces, hablamos de contribuir al software de código abierto.
+
+92
+00:10:31,340 --> 00:10:37,759
+Ahora, quiero hablar algo un poco más picante porque, como en nuestra comunidad, tenemos muchas
+
+93
+00:10:37,759 --> 00:10:43,850
+opciones y muchas personas a las que les gusta animar un lenguaje como JavaScript, es mejor, no
+
+94
+00:10:43,850 --> 00:10:49,830
+cuanto mejor es C, ahora mejor es eso. ¿Tienes un lenguaje de programación favorito?
+
+95
+00:10:50,440 --> 00:11:00,240
+Sí. Agradable. Sí, trabajo con Go. He estado trabajando con Go desde que comencé a dejar volver
+
+96
+00:11:00,240 --> 00:11:09,850
+en 2015. En 2016 obtuve mi primer trabajo, mi primer trabajo remunerado escribiendo código, a tiempo completo, y no he mirado
+
+97
+00:11:09,860 --> 00:11:15,889
+atrás. Debo decir que no he investigado a Rust. Um, entonces no mucha gente elogia
+
+98
+00:11:15,889 --> 00:11:20,879
+Rust. Les encanta. Hay muchas similitudes con Go en términos de ser, ah, perdura.
+
+99
+00:11:20,919 --> 00:11:27,860
+Eso es muy, un lenguaje que es muy, tiene un buen ajuste para escribir a través de los sistemas.
+
+100
+00:11:28,340 --> 00:11:37,690
+Ahora, la razón por la que me gusta Go es porque odio decir esto porque nada de informática o programación
+
+101
+00:11:37,700 --> 00:11:42,080
+es simple pero no es simple. No digo que sea fácil.
+
+102
+00:11:42,090 --> 00:11:46,639
+Requiere esfuerzos para aprender. Pero la sintaxis tiene.
+
+103
+00:11:46,639 --> 00:11:54,210
+Creo que 25 palabras clave, la API. Son muy buenos para no cambiar la API, no agregar
+
+104
+00:11:54,210 --> 00:11:57,669
+mucho al lenguaje a menos que sea absolutamente necesario.
+
+105
+00:11:58,289 --> 00:12:04,389
+Si contrasta eso con Ruby, por ejemplo, simplemente le gustaría tener una base para la comparación.
+
+106
+00:12:04,940 --> 00:12:13,850
+Cuando entré en Ruby, conocía C, conocía Java, conocía PHP, C # cosas así.
+
+107
+00:12:14,240 --> 00:12:21,649
+Entonces, cuando entré en Ruby, era completamente nuevo para mí que todos los aspectos de la programación
+
+108
+00:12:21,649 --> 00:12:27,460
+con un lenguaje dinámico. Pensé que era fascinante en el amor absoluto
+
+109
+00:12:27,460 --> 00:12:33,299
+Era completamente diferente, y también había una comunidad increíble a su alrededor.
+
+110
+00:12:33,740 --> 00:12:40,600
+pero todo el tiempo que estuve usando Ruby, luché con él porque cada vez que quería
+
+111
+00:12:40,610 --> 00:12:49,000
+escribir una función estúpida. Tuve que ir a Internet, buscar cuál era la mejor manera de escribir
+
+112
+00:12:49,000 --> 00:12:54,080
+esa función. como cuál fue la mejor llamada? o así serían como 10, 15 llamadas
+
+113
+00:12:54,080 --> 00:12:57,289
+que podría usar, cada una tendrá una compensación.
+
+114
+00:12:57,500 --> 00:13:02,850
+Y antes de enviar mi código a una revisión de código en la que la gente iba a hablar de eso, podría
+
+115
+00:13:02,850 --> 00:13:09,909
+durarme en esa discusión al encontrar qué pasa si ya no lo sabía, como, finalmente lo que la gente
+
+116
+00:13:09,909 --> 00:13:15,750
+piensa que es mejor? Fue todo el tiempo que estuve haciendo eso y fue bastante patético.
+
+117
+00:13:16,710 --> 00:13:19,799
+Rubiy es un gran idioma, la comunidad es muy buena
+
+118
+00:13:19,980 --> 00:13:27,919
+No podía mantenerlo en mi cabeza y sentí que era mucho trabajo,
+
+119
+00:13:27,929 --> 00:13:33,190
+que era un trabajo pesado, básicamente, porque había tantas opciones.
+
+120
+00:13:34,039 --> 00:13:41,769
+Cuando fui, cuando me enteré de Go, primero que nada, la velocidad, porque
+
+121
+00:13:41,769 --> 00:13:48,340
+en ese momento no solo estaba escribiendo Ruby, estaba usando Ruby on Rails y luego tenía aplicaciones que tenían velocidad
+
+122
+00:13:48,340 --> 00:13:55,789
+) problemas, como cuando estaba probando y estaba mirando algunas comparaciones y Go simplemente
+
+123
+00:13:55,789 --> 00:14:02,320
+me estaba volviendo loco en ese apartamento. Eso no fue lo que me retuvo, pero la razón por la que me quedé fue porque
+
+124
+00:14:02,320 --> 00:14:08,870
+encontraba Go tan minimalista y simple. Escribo cosas que nunca tengo que
+
+125
+00:14:08,870 --> 00:14:12,700
+mirar en la vida eterna como algo realmente raro que tengo para todos.
+
+126
+00:14:12,700 --> 00:14:18,809
+¿cómo iteraré a través de una matriz? Porque solo hay una forma
+
+127
+00:14:18,820 --> 00:14:23,289
+Por lo general, ya sabes a qué me refiero Por eso Go está leyendo mi favorito.
+
+128
+00:14:23,519 --> 00:14:27,639
+Como dije, no conozco a Rust. No conozco absolutamente todos los idiomas.
+
+129
+00:14:27,639 --> 00:14:35,549
+Pero por eso me gusta tanto Go. Increíble, de hecho me encanta Go la primera vez que lo uso porque
+
+130
+00:14:35,940 --> 00:14:43,549
+vengo del lenguaje de programación C e hice mucho código en el lenguaje de programación C, y
+
+131
+00:14:43,559 --> 00:14:48,870
+cuando comencé a aprender Go por primera vez. Fue como, Oh, ¿no tiene clases? ¿Solo tiene
+
+132
+00:14:49,029 --> 00:14:55,679
+estructuras? así que esto es asombroso. Esto es como C, ¿verdad? y de hecho, muchas personas que
+
+133
+00:14:55,690 --> 00:15:01,730
+no comenzaron con el lenguaje antiguo, como C, se confunden un poco. De hecho, me encanta
+
+134
+00:15:01,740 --> 00:15:07,019
+eso, y estoy totalmente de acuerdo contigo sobre la simplicidad que tiene Go, y
+
+135
+00:15:07,029 --> 00:15:11,509
+y te ayuda un poco a que puedas tener una forma de hacer las cosas y
+
+136
+00:15:11,509 --> 00:15:15,649
+tienes más confianza. que lo estás haciendo de la manera correcta, ¿verdad ?, porque
+
+137
+00:15:15,659 --> 00:15:18,750
+cuando los lenguajes de programación tienen más opciones,
+
+138
+00:15:18,750 --> 00:15:22,360
+más opciones, bueno, las cosas se complican un poco más.
+
+139
+00:15:22,370 --> 00:15:29,149
+Estoy totalmente de acuerdo, encantador, entonces, ¿cuál fue tu primer lenguaje de programación?
+
+140
+00:15:30,240 --> 00:15:39,309
+La primera, Um, voy a decir que no me acuerdo porque fui a la escuela y tuve
+
+141
+00:15:39,309 --> 00:15:43,139
+todas estas clases y sé que tomé clases similares que requerían una
+
+142
+00:15:43,139 --> 00:15:47,450
+como ellas darán dos opciones. Así que lo sabía, tomé C
+
+143
+00:15:47,799 --> 00:15:54,399
+Tomé Java, tomé clases de que en esos dos lenguajes, seguro.
+
+144
+00:15:54,409 --> 00:16:00,720
+Creo que solo esos dos en realidad. El primer lenguaje en el que pensé mucho
+
+145
+00:16:00,730 --> 00:16:08,230
+fue Java porque quería convertirme en un experto, en expertos en juegos, en la medida de lo posible.
+
+146
+00:16:08,230 --> 00:16:12,500
+Entonces comencé por la certificación y no estoy diciendo que la certificación
+
+147
+00:16:12,500 --> 00:16:17,840
+Todo el mundo debería tenerla, para mí era como si se tratara de tener un programa de estudios que pudiera seguir en
+
+148
+00:16:17,840 --> 00:16:22,899
+casillas de verificación como OK, lo sé esta. Lo sé, lo sé y no sé cuándo esas cosas
+
+149
+00:16:22,899 --> 00:16:25,549
+me harán entender mejor el idioma.
+
+150
+00:16:25,899 --> 00:16:31,679
+Así que obtuve el nivel de entrada de Java uno, la certificación de programador.
+
+151
+00:16:31,960 --> 00:16:39,519
+Me sentí muy confiado con Java, así que sí, lo diré. Me he dado cuenta de algo muy importante
+
+152
+00:16:39,519 --> 00:16:43,399
+y algo que en realidad les decimos mucho a nuestros alumnos.
+
+153
+00:16:43,399 --> 00:16:49,049
+Y es que no solo tienes un lenguaje de programación e intentas hacerlo
+
+154
+00:16:49,360 --> 00:16:55,039
+todo con ese lenguaje de programación, veo que aprendiste muchos lenguajes de programación
+
+155
+00:16:55,200 --> 00:16:59,210
+y de hecho queremos saber , ¿Qué piensa usted al respecto?
+
+156
+00:16:59,210 --> 00:17:04,690
+Porque algunos programadores aquí en LATAM o algunos estudiantes dicen, como, este es el mejor
+
+157
+00:17:04,690 --> 00:17:09,509
+lenguaje de programación, y quiero hacer todo con esto, desde videojuegos hasta
+
+158
+00:17:09,509 --> 00:17:14,029
+servicios de backend, aplicaciones en tiempo real, a los sistemas integrados.
+
+159
+00:17:14,269 --> 00:17:18,349
+Es un poco loco, ¿verdad? ¿Qué piensas sobre eso?
+
+160
+00:17:19,740 --> 00:17:27,970
+Creo que definitivamente es una ventaja aprender más ramas ahora como
+
+161
+00:17:29,200 --> 00:17:33,680
+hablemos de esto rápido, ¿hay muchas preguntas dentro de esta pregunta que son la pregunta
+
+162
+00:17:33,680 --> 00:17:39,490
+Entonces, una pregunta es, ¿debería saber más de un lenguaje de programación? al menos en mi cabeza
+
+163
+00:17:39,630 --> 00:17:45,430
+esa es la única pregunta aquí. Absolutamente. Sí, deberías hacer hincapié en el aprendizaje.
+
+164
+00:17:45,480 --> 00:17:52,539
+Deberías saber al menos dos, y en esto sé que tu empresa es obviamente
+
+165
+00:17:52,539 --> 00:17:59,049
+muy multilingüe. Estoy aquí haciendo esta entrevista en inglés y probablemente vas a traducir
+
+166
+00:17:59,049 --> 00:18:07,069
+Y tu audiencia es principalmente de América Latina. Si hablas dos idiomas, sabes que tienes una ventaja
+
+167
+00:18:07,069 --> 00:18:11,009
+Y si vas a aprender un tercero, será mucho más fácil, si estás pasando por este proceso
+
+168
+00:18:11,079 --> 00:18:15,700
+sabes que es verdad. Y probablemente hayas escuchado que eso es cierto.
+
+169
+00:18:15,950 --> 00:18:21,599
+Lo mismo ocurre con los lenguajes de programación. Aprendes uno y luchas porque nunca has programado
+
+170
+00:18:21,609 --> 00:18:26,579
+antes. Y luego aprendes el segundo y hay cosas contrastantes y de repente
+
+171
+00:18:26,579 --> 00:18:29,690
+empiezas, no, ya no se trata del lenguaje de programación
+
+172
+00:18:29,690 --> 00:18:39,009
+se trata de sistemas informáticos, como la mecánica es la mecánica que esos lenguajes que sintaxis
+
+173
+00:18:39,019 --> 00:18:46,509
+está conduciendo. Comienzas a entender una vez que comienzas a manipularlo con diferentes idiomas,
+
+174
+00:18:46,509 --> 00:18:49,109
+simplemente te gusta que las cosas comiencen a juntarse en tu cabeza.
+
+175
+00:18:49,740 --> 00:18:56,130
+Uh, no hay nada malo con solo conocer uno. Solo digo que si aprende más,
+
+176
+00:18:56,130 --> 00:19:01,950
+obtendrá automáticamente el beneficio sin hacer un gran esfuerzo para comprender los sistemas informáticos.
+
+177
+00:19:01,950 --> 00:19:08,130
+Ahora, si usa un idioma, no estoy seguro si conoce varios idiomas.
+
+178
+00:19:08,130 --> 00:19:11,990
+¿Debería utilizar un idioma para todo? Absolutamente no.
+
+179
+00:19:12,230 --> 00:19:15,579
+No, ¿te gusta, si lo haces como pasatiempo?
+
+180
+00:19:15,579 --> 00:19:25,240
+Claro. Pero no va a ser eficiente. Así que tienes que averiguar si quieres que te sientas ejecutando
+
+181
+00:19:25,240 --> 00:19:32,170
+un equipo, tienes que analizar cuáles son las opciones aquí que harían que el sistema que estás escribiendo
+
+182
+00:19:32,170 --> 00:19:39,960
+sea lo que sea, sea más productivo como eso, tienes que sacarle productividad a tu equipo.
+
+183
+00:19:40,170 --> 00:19:43,720
+Porque si estás escribiendo con el lenguaje, eso no te permite hacer un montón de cosas y
+
+184
+00:19:43,720 --> 00:19:49,460
+te tiene que gustar, estar hackeando cosas, vas a disparar tu producto, la productividad de tu equipo .
+
+185
+00:19:49,460 --> 00:19:54,170
+Entonces, el idioma importa. Realmente amo todo lo que nos dices.
+
+186
+00:19:54,180 --> 00:19:58,529
+Estoy muy feliz de tenerte aquí, gracias y tengo una última pregunta.
+
+187
+00:19:58,539 --> 00:20:02,210
+Aquí en Platzi tenemos muchos estudiantes y los amamos a todos.
+
+188
+00:20:02,279 --> 00:20:10,369
+Pero me encantaría que le dijera un pequeño mensaje a todos o posibles estudiantes o estudiantes potenciales
+
+189
+00:20:10,369 --> 00:20:16,880
+que son principalmente estudiantes mujeres que no creen que puedan ingresar a este campo de la informática
+
+190
+00:20:16,940 --> 00:20:24,640
+y triunfar aquí. Sí, bueno, únete al club porque casi me siento así todos los días, aunque
+
+191
+00:20:24,640 --> 00:20:27,690
+ya lo he estado haciendo durante mucho tiempo.
+
+192
+00:20:27,690 --> 00:20:30,779
+Eso es siempre algo que pienso Oh, es esto.
+
+193
+00:20:30,779 --> 00:20:35,309
+No recibí la nota sobre cómo hacer esto, pero creo que realmente ayuda.
+
+194
+00:20:36,089 --> 00:20:42,809
+Creo que el problema es un gran problema es que cuando haces las cosas de forma aislada, no sabes que hay
+
+195
+00:20:42,809 --> 00:20:49,670
+otras personas están luchando y creo que el problema con el género, esta división de género es que
+
+196
+00:20:51,000 --> 00:20:54,980
+1) Bueno, la informática y la programación están dominadas por los hombres.
+
+197
+00:20:55,299 --> 00:21:02,750
+Así que es muy fácil para los chicos encontrar chicos y hacer lo de chicos, ¿verdad? en las mujeres puede que no quieran o no sean
+
+198
+00:21:02,750 --> 00:21:09,920
+acogedoras, porque la cuestión es que si todos estos dos grupos, estos dos grupos
+
+199
+00:21:09,920 --> 00:21:16,250
+hombres, mujeres, interactuaran todo el tiempo, verían mucho de los chicos eran naturalmente
+
+200
+00:21:16,250 --> 00:21:19,529
+confiados y no sabes cómo saben todo lo que hacen.
+
+201
+00:21:19,529 --> 00:21:26,309
+Tengo gente así, mujeres también, y esa es otra cosa que podrías exponer a mujeres
+
+202
+00:21:26,309 --> 00:21:33,069
+que también tienen un talento muy natural. Pero hay muchas personas que también luchan, pero tú no
+
+203
+00:21:33,069 --> 00:21:38,930
+ves porque no interactúas con ellas, y yo he tenido suerte, la suerte que he tenido
+
+204
+00:21:39,089 --> 00:21:46,150
+me mantuve firme y porque me gusta, y he visto a muchas personas de todo tipo luchar, de la misma
+
+205
+00:21:46,150 --> 00:21:50,380
+forma en que yo luché. Entonces, al luchar, es una cosa.
+
+206
+00:21:50,380 --> 00:21:55,170
+y eso es algo que les digo a las personas que quieren aprender ciencias de la computación o
+
+207
+00:21:55,170 --> 00:22:03,160
+aprender a programar, que definitivamente lo prueben. Pero si lo pruebas y te gusta, apégate a ello
+
+208
+00:22:04,039 --> 00:22:09,170
+porque realmente requiere persistencia
+
+209
+00:22:09,180 --> 00:22:13,390
+Requiere mucha concentración.
+
+210
+00:22:13,619 --> 00:22:20,029
+Y si no te gusta, peleas. Sigues luchando y no vas a profundizar, y
+
+211
+00:22:20,029 --> 00:22:23,660
+necesitas profundizar para comprender los conceptos y los fundamentos.
+
+212
+00:22:24,019 --> 00:22:31,710
+y solo hablando de informática, realmente ayuda tener un plan de estudios,
+
+213
+00:22:31,710 --> 00:22:39,569
+y para que sepas, las cosas que tienes que puedes aprender a darte para usar.
+
+214
+00:22:39,569 --> 00:22:46,970
+No fue el incidente. No es el primer día que se lo iba a dar.
+
+215
+00:22:46,970 --> 00:22:49,539
+Entré en direcciones totalmente diferentes. No, pero
+
+216
+00:22:49,539 --> 00:22:52,960
+me gustó. Esto es del registro, por cierto para la energía.
+
+217
+00:22:53,970 --> 00:22:58,470
+¿Desea agregar algo como, ¿Puedo hacer una pregunta de seguimiento? o
+
+218
+00:22:58,480 --> 00:23:02,160
+estás de acuerdo con eso. No, no, si quieres hacer un seguimiento, me parece bien.
+
+219
+00:23:02,569 --> 00:23:07,410
+Perfecto, me encantó lo que dices. Es muy importante.
+
+220
+00:23:07,420 --> 00:23:14,140
+Es un mensaje muy importante. Y de hecho, cuando usted como estudiante, cuando está comenzando, ve
+
+221
+00:23:14,140 --> 00:23:18,829
+estas personas en este momento que están en la cima, y ​​parecen saberlo todo y
+
+222
+00:23:18,829 --> 00:23:25,859
+son sus maestros, ¿verdad? Y les gusta, son personas que hacen de todo, codifican en muchos idiomas
+
+223
+00:23:25,859 --> 00:23:32,160
+por ejemplo, Carlisia. Pero es importante tomar nota de eso como si no hubieran comenzado
+
+224
+00:23:32,309 --> 00:23:39,509
+con todo el conocimiento. Entonces, sí, con eso, solo preguntaré si hay algo más que quieras
+
+225
+00:23:39,519 --> 00:23:46,450
+decirles a nuestros espectadores Carlisia. Bueno, me haces recordar,
+
+226
+00:23:46,490 --> 00:23:52,740
+recordar algo, muchas veces cuando miras, admiras a alguien,
+
+227
+00:23:52,740 --> 00:23:57,369
+ni siquiera me considero un experto. Soy un experto en el sentido de que llevo mucho tiempo haciendo programación
+
+228
+00:23:57,369 --> 00:24:04,420
+. Entonces, pero todo lo que hago es nuevo, entonces siento que, Dios mío, estoy luchando
+
+229
+00:24:04,420 --> 00:24:07,160
+Siempre estoy luchando porque todo es nuevo. Tú sabes cómo es.
+
+230
+00:24:07,759 --> 00:24:12,950
+Pero sí, he adquirido algunos buenos sentimientos sobre las cosas y eso ayuda mucho.
+
+231
+00:24:14,039 --> 00:24:19,670
+Ahora, cuando miras a alguien que es un experto que ha estado haciendo cualquier cosa durante mucho tiempo y
+
+232
+00:24:19,680 --> 00:24:25,519
+si habla de una manera que tal vez no entiendes y si le haces una pregunta, es posible que darle
+
+233
+00:24:25,519 --> 00:24:31,460
+una respuesta que no tiene ningún sentido. Y luego podrías voltear hacia ti mismo y pensar, Wow,
+
+234
+00:24:31,470 --> 00:24:37,920
+Yo respondo. Hice la pregunta de que necesito una respuesta para esta persona que es un experto respondió
+
+235
+00:24:37,930 --> 00:24:42,559
+y no puedo tener sentido como entiendo las palabras, pero no sé lo que están diciendo.
+
+236
+00:24:42,619 --> 00:24:47,940
+Me pasa todo el tiempo, por cierto, entonces soy yo, ¿no?
+
+237
+00:24:47,940 --> 00:24:53,650
+porque el experto me dio una respuesta que debería saber. Pero esto es lo que sucede en
+
+238
+00:24:53,660 --> 00:24:56,200
+cuando la gente ha estado haciendo algo durante mucho tiempo.
+
+239
+00:24:56,430 --> 00:25:02,309
+Los llamados expertos y eso es por cada pocos que piensan, piensan en estos de una manera diferente.
+
+240
+00:25:02,460 --> 00:25:08,980
+Hablan de cosas en un nivel diferente y muchas veces cuando les pregunto a personas, personas que
+
+241
+00:25:08,980 --> 00:25:14,240
+son expertas, me dicen cómo hacer las cosas, pero no necesariamente me explican lo que soy.
+
+242
+00:25:14,250 --> 00:25:19,869
+preguntando, ¿cuál es incluso esto? no me digas cómo usarlo, porque puedo
+
+243
+00:25:19,869 --> 00:25:25,900
+memorizarlo, puedo escribirlo, pero lo que quiero saber es ¿qué es esto? porque aún no he llegado
+
+244
+00:25:25,900 --> 00:25:33,920
+. Es muy útil hablar con principiantes o recién llegados para tratar de aprender
+
+245
+00:25:33,920 --> 00:25:38,650
+cosas unos de otros, como si estuvieran de acuerdo en tener lo mismo cada vez que aprendan algo.
+
+246
+00:25:38,650 --> 00:25:44,230
+Incluso si está en el campo durante mucho tiempo, pero está pasando a otro idioma o un nuevo
+
+247
+00:25:44,230 --> 00:25:51,609
+sistema, busque principiantes para aprender y colaborar.
+
+248
+00:25:51,619 --> 00:25:56,660
+Esas van a ser muy buenas experiencias en mi opinión.
+
+249
+00:25:57,839 --> 00:26:00,349
+Oh, eso es asombroso. Muchas gracias.
+
+250
+00:26:00,740 --> 00:26:07,309
+Solo agregaré
+
+251
+00:26:40,000 --> 00:26:42,789
+Bueno, Carlisia, realmente me encantó esta entrevista.
+
+252
+00:26:42,799 --> 00:26:47,200
+Me encantó tenerte aquí. Estoy seguro de que nuestros estudiantes querrán un curso tuyo.
+
+253
+00:26:47,329 --> 00:26:54,690
+Serás un profesor de go increíble. Estoy tan feliz de tenerte aquí,
+
+254
+00:26:54,690 --> 00:27:00,640
+de verdad, y quería darte las gracias. En nombre de Platzi y de toda nuestra comunidad, por compartir
+
+255
+00:27:00,640 --> 00:27:06,420
+este tiempo con nosotros. Sé que eres una persona muy ocupada y bueno, de verdad, de verdad gracias
+
+256
+00:27:06,420 --> 00:27:10,410
+No sé si quieres compartir tus redes sociales donde puedan seguirte.
+
+257
+00:27:10,529 --> 00:27:15,210
+Tienes un podcast increíble sobre la computación en la nube y
+
+258
+00:27:15,440 --> 00:27:20,109
+Tal vez puedas hablar un poco sobre eso. Sí, fue tan hermoso estar aquí
+
+259
+00:27:20,109 --> 00:27:22,789
+y hacer esto. Parece que tienes una comunidad maravillosa.
+
+260
+00:27:23,440 --> 00:27:28,730
+la mejor manera de interactuar conmigo es en Twitter, aparezco allí todo el tiempo.
+
+261
+00:27:28,740 --> 00:27:33,759
+Hablé con personas que están abiertamente, y creo que es divertido en la muy recomendable
+
+262
+00:27:33,769 --> 00:27:39,710
+que las personas que hablan que no están en Twitter se unan y comiencen a hacer conexiones porque muchas
+
+263
+00:27:39,720 --> 00:27:42,849
+suceden allí , la gente consigue trabajo con él, es increíble.
+
+264
+00:27:43,210 --> 00:27:47,000
+Así que es mi primer nombre. Mi nombre es mi nombre de usuario
+
+265
+00:27:47,000 --> 00:27:54,119
+y, como dijo Ricardo, soy anfitrión de un podcast que habla sobre conceptos nativos de la nube.
+
+266
+00:27:54,599 --> 00:28:00,740
+Fue algo que comencé porque cuando me uní a este mundo, no estaba familiarizado con
+
+267
+00:28:00,740 --> 00:28:03,089
+los conceptos y me preguntaba ¿Qué es esto?
+
+268
+00:28:03,089 --> 00:28:10,569
+¿Qué es esto? Y finalmente me doy cuenta. Oye, quiero ser el cambio
+
+269
+00:28:10,630 --> 00:28:14,119
+Quiero ser la fuerza en el mundo que quiero. ¿Sabes a lo que me refiero?
+
+270
+00:28:15,009 --> 00:28:22,880
+Como figura. Guau. Hice un podcast para ayudar a las personas que saben lo que sucedió hace un año.
+
+271
+00:28:23,299 --> 00:28:26,549
+y porque tampoco vi que hubiera nada de eso.
+
+272
+00:28:26,549 --> 00:28:31,569
+Entonces, si quieres aprender sobre los conceptos nativos llamados, entra en podlets.io
+
+273
+00:28:31,569 --> 00:28:38,039
+Sí, muchas gracias. Por supuesto, pondremos el enlace a sus podcasts y a su cuenta de twitter
+
+274
+00:28:38,039 --> 00:28:41,650
+aquí en el chat para que nuestros estudiantes puedan seguirlo.
+
+275
+00:28:41,819 --> 00:28:44,890
+Y sí, solo quería darte las gracias.
+
+276
+00:28:44,900 --> 00:28:49,150
+Ahora estoy para nuestros estudiantes. Quiero decirte algo en español.

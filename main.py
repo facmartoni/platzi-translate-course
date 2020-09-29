@@ -16,14 +16,16 @@ TEXT_LINE = re.compile(r'^[\w\"\'].*$')
 
 # Translate Separator
 SEPARATOR = ' (1) '
+SECONDARY_SEPARATOR = ' ( 1) '
 
 
-def translate_text_list(text_list, separator=' (1) '):
-    condensed_str = separator.join(text_list)
+def translate_text_list(text_list):
+    condensed_str = SEPARATOR.join(text_list)
     translator = Translator()
     translated_text = translator.translate(
         condensed_str, src='en', dest='es').text
-    translated_text_list = translated_text.split(separator.strip())
+    translated_text_list = translated_text.split(SEPARATOR.strip())
+    translated_text_list = re.split(r'\(1\)|\( 1\)', translated_text)
     translated_text_list = [string.strip() for string in translated_text_list]
     return translated_text_list
 
@@ -55,6 +57,19 @@ def write_srt_file(output_file, minute_list, text_list):
     print(f'Archivo {output_file} escrito satisfactoriamente ;)')
 
 
+#Fix long text translate problem
+def chunk_list(some_list, n_chunks):
+    wrapper_list = []
+    general_chunk_size = len(some_list) // n_chunks
+    general_chunk_size = general_chunk_size if general_chunk_size > 1 else 1
+    index_accumulator_initial = 0
+    index_accumulator_final = general_chunk_size
+    while True: 
+        if index_accumulator_final > len(some_list):
+            return wrapper_list
+        wrapper_list.append(some_list[index_accumulator_initial:index_accumulator_final])
+        index_accumulator_initial, index_accumulator_final = index_accumulator_final, index_accumulator_final + general_chunk_size
+
 def run():
     for input_file in INPUT_FILES:
 
@@ -70,7 +85,24 @@ def run():
                 elif re.match(TEXT_LINE, line):
                     text_list.append(line.strip())
 
-        translated_text_list = translate_text_list(text_list, SEPARATOR)
+        #Fix long text translate problem
+        text_size = len(''.join(text_list))
+        if text_size > 14000: 
+            qty_divisions = text_size // 14000 + 1
+            translated_text_list = []
+            for chunk in chunk_list(text_list, qty_divisions):
+                # old_len_chunk = len(chunk)
+                # old_chunk = chunk
+                # print('Pre', old_len_chunk)
+                chunk = translate_text_list(chunk)
+                # print('Post', len(chunk))
+                # if len(chunk) < old_len_chunk:
+                #     print(old_chunk)
+                #     print(chunk)
+                translated_text_list += chunk
+        else:
+            translated_text_list = translate_text_list(text_list)
+
         srt_minute_list = vttmin_to_srtmin(minute_list)
 
         # print(len(translated_text_list))
